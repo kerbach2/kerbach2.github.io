@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linguist"
 title_separator          : "-"
 name                     : &name "Kurt Erbach"
-description              : &description "PhD Linguistics"
+description              : &description "Professional Website"
 url                      : https://kerbach2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kerbach2/kerbach2.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kurt Erbach"
   avatar           : "profile.png"
-  bio              : "Linguist"
+  bio              : "PhD Linguistics"
   location         : "Dusseldorf, Germany"
   employer         :
   pubmed           : 
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kurt-erbach-6109a612/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kerbach2"
+  twitter          : #"kerbach2"
   vine             :
   weibo            :
   xing             :
