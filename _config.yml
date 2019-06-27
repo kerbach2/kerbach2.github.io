@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kurt Erbach"
+title                    : "Linguist"
 title_separator          : "-"
 name                     : &name "Kurt Erbach"
-description              : &description "Linguist"
+description              : &description "PhD Linguistics"
 url                      : https://kerbach2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kerbach2/kerbach2.github.io"
