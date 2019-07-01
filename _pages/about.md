@@ -12,9 +12,9 @@ In my PhD thesis, “Object Mass Nouns: A Frame Based Analysis”, I motivate th
 
 Publications
 ======
-* Erbach, K. (2019). A unified analysis of plural nouns in Greek. *Proceedings of Sinn und Bedeutung 23*. Forthcoming.
-* Erbach, K. and L. Berio. (2019). Readings of Plurals and Common Ground. In E. Pacuit and J. Sikos (eds). *At the Intersection of Language, Logic, and Information, Special Volume of Lecture notes in Computer Science*. Springer. Forthcoming.
-* Erbach, K., H. Filip, and P. Sutton. (2019). Bare nouns and the Hungarian mass/count distinction. In: C. Umbach, P. Sutton (eds.), *Language, Logic and Computation. 12th TbiLLC Symposium, Lecture notes in Computer Science*. Forthcoming.
+* Erbach, K. (2019). [A unified analysis of plural nouns in Greek](https://kerbach2.github.io/papers/erbach_2019_measure_pl_mass_Greek.pdf). *Proceedings of Sinn und Bedeutung 23*. Forthcoming.
+* Erbach, K. and L. Berio. (2019). [Readings of Plurals and Common Ground](https://kerbach2.github.io/papers/erbach_berio_2019_plurals_common_ground.pdf). In E. Pacuit and J. Sikos (eds). *At the Intersection of Language, Logic, and Information, Special Volume of Lecture notes in Computer Science*. Springer. Forthcoming.
+* Erbach, K., H. Filip, and P. Sutton. (2019). [Bare nouns and the Hungarian mass/count distinction](https://kerbach2.github.io/papers/erbach_sutton_filip_2019_Hungarian.pdf). In: C. Umbach, P. Sutton (eds.), *Language, Logic and Computation. 12th TbiLLC Symposium, Lecture notes in Computer Science*. Forthcoming.
 * Erbach, K., P. Sutton, H. Filip, and K. Byrdeck. (2019). Object Mass Nouns as Arbiter for the Mass/Count Category. In T. Kiss, H. Husic, and F. Pelletier (eds.), *The Semantics of the Count-Mass Distinction*. Cambridge University Press. Forthcoming.
 * Erbach, K. (2018). Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates. [*Proceedings of the ESSLLI 2018 Student Session*](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf). 
 * Erbach, K., P. Sutton, H. Filip, and K. Byrdeck. (2017). Object Mass Nouns in Japanese. [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf).
