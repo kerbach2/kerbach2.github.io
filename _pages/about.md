@@ -12,7 +12,7 @@ In my PhD thesis, “Object Mass Nouns: A Frame Based Analysis”, I motivate th
 
 Publications
 ======
-* Erbach, K. (2019). A unified analysis of plural nouns in Greek. *Proceedings of Sinn und Bedeutung 23*. [Forthcoming](https://kerbach2.github.io/papers/erbach_2019_measure_pl_mass_Greek.pdf).
+* Erbach, K. (2019). [A unified analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf). In Espinal, M.T., E. Castroviejo, M. Leonetti, L. McNally, and C. Real-Puigdollers (eds). *Proceedings of Sinn und Bedeutung 23*, vol 1. 413-431. Universitat Autònoma de Barcelona, Bellaterra (Cerdanyola del Vallès).
 * Erbach, K. and L. Berio. (2019). Readings of Plurals and Common Ground. In E. Pacuit and J. Sikos (eds). *At the Intersection of Language, Logic, and Information, Special Volume of Lecture notes in Computer Science*. Springer. [Forthcoming](https://kerbach2.github.io/papers/erbach_berio_2019_plurals_common_ground.pdf).
 * Erbach, K., P.R. Sutton, and H. Filip. (2019). [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas). In: A. Silva, S. Staton, P. Sutton, C. Umbach (eds.), *Language, Logic, and Computation. TbiLLC 2017. Lecture Notes in Computer Science*, vol 11456. 86-107. Springer, Berlin, Heidelberg. [Pre-final draft](https://kerbach2.github.io/papers/erbach_sutton_filip_2019_Hungarian.pdf).
 * Erbach, K., P.R. Sutton, H. Filip, and K. Byrdeck. (2019). Object Mass Nouns as Arbiter for the Mass/Count Category. In T. Kiss, H. Husic, and F. Pelletier (eds.), *The Semantics of the Count-Mass Distinction*. Cambridge University Press. [Forthcoming](https://kerbach2.github.io/papers/erbach_sutton_filip_byrdeck_2019_object_mass_nouns_as_arbiter.pdf).
