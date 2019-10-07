@@ -22,6 +22,6 @@ Publications
 
 Teaching
 ======
-* Erbach, K. (2019). [English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf) Universty of Bonn.
-* Erbach, K. (2019). [The Mass/Count Distinction, Applied Investigations](https://kerbach2.github.io/teaching/syllabus_applied_mass_count_2019_winter.pdf) University of Bonn.
+* Erbach, K. (2019). [English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf). Universty of Bonn.
+* Erbach, K. (2019). [The Mass/Count Distinction, Applied Investigations](https://kerbach2.github.io/teaching/syllabus_applied_mass_count_2019_winter.pdf). University of Bonn.
 * Erbach, K. (2017). [Plurality](https://kerbach2.github.io/teaching/syllabus_plurality_2017_summer.pdf). Heinrich-Hiene-University, Dusseldorf.
