@@ -20,3 +20,8 @@ Publications
 * Erbach, K., P. Sutton, H. Filip, and K. Byrdeck. (2017). Object Mass Nouns in Japanese. In: Cremers, A., T. van Gessel, and F. Roelofsen (eds). [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf). pp. 235-244.
 * Erbach, K. (2014). [*Coordinate Systems in Gã*](https://scholarworks.umt.edu/etd/4289/). ScholarWorks. Missoula: The University of Montana Maureen and Mike Mansfield Library. 
 
+Teaching
+======
+* Erbach, K. (2019). [English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf) Universty of Bonn.
+* Erbach, K. (2019). [The Mass/Count Distinction, Applied Investigations](https://kerbach2.github.io/teaching/syllabus_applied_mass_count_2019_winter.pdf) University of Bonn.
+* Erbach, K. (2017). [Plurality](https://kerbach2.github.io/teaching/syllabus_plurality_2017_summer.pdf). Heinrich-Hiene-University, Dusseldorf.
