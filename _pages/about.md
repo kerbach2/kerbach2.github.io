@@ -12,6 +12,7 @@ In my PhD thesis, “Object Mass Nouns: A Frame Based Analysis”, I motivate th
 
 Publications
 ======
+* Erbach, K. (2020). [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698). *Proceedings of the Linguistic Society of America* 5.1 (2020): 228-241. [https://doi.org/10.3765/plsa.v5i1.4698](https://doi.org/10.3765/plsa.v5i1.4698).
 * Erbach, K. (2019). [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf). In Espinal, M.T., E. Castroviejo, M. Leonetti, L. McNally, and C. Real-Puigdollers (eds). *Proceedings of Sinn und Bedeutung 23*, vol 1. 413-431. Universitat Autònoma de Barcelona, Bellaterra (Cerdanyola del Vallès).
 * Erbach, K. and L. Berio. (2019). [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2). In E. Pacuit and J. Sikos (eds). *At the Intersection of Language, Logic, and Information, Special Volume of Lecture notes in Computer Science*, vol 11667. pp 21-41. Springer. [Pre-final draft](https://kerbach2.github.io/papers/erbach_berio_2019_plurals_common_ground.pdf).
 * Erbach, K., P.R. Sutton, and H. Filip. (2019). [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas). In: A. Silva, S. Staton, P. Sutton, C. Umbach (eds.), *Language, Logic, and Computation. TbiLLC 2017. Lecture Notes in Computer Science*, vol 11456. pp. 86-107. Springer, Berlin, Heidelberg. [Pre-final draft](https://kerbach2.github.io/papers/erbach_sutton_filip_2019_Hungarian.pdf).
@@ -22,6 +23,9 @@ Publications
 
 Teaching
 ======
+* Erbach, K. (2020). [English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2020_summer.pdf). Universty of Bonn.
+* Erbach, K. (2020). [Introduction to Semantics](https://kerbach2.github.io/teaching/syllabus_Intro_Sem_2020_summer.pdf). Universty of Bonn.
+* Erbach, K. (2020). [Language in Culture and Cognition: Speech Acts, Politeness, Discourse](https://kerbach2.github.io/teaching/syllabus_App_Prag_2020_summer.pdf). Universty of Bonn.
 * Erbach, K. (2019). [English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf). Universty of Bonn.
 * Erbach, K. (2019). [The Mass/Count Distinction, Applied Investigations](https://kerbach2.github.io/teaching/syllabus_applied_mass_count_2019_winter.pdf). University of Bonn. [Introduction](https://kerbach2.github.io/teaching/LectureNotes01_Introduction_EngLing_MA_2019_WI.pdf)
 * Erbach, K. (2017). [Plurality](https://kerbach2.github.io/teaching/syllabus_plurality_2017_summer.pdf). Heinrich-Heine-University, Dusseldorf.
