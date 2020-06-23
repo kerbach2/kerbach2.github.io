@@ -14,6 +14,15 @@ In my PhD thesis, “Object Mass Nouns: A Frame Based Analysis”, I motivate th
 
 My thesis investigates typologically distinct languages—Greek, Hungarian, and Japanese—for object mass nouns as a means of testing the adequacy of the leading theories of the mass/count distinction. This investigation reveals that a disjointness-based approach to the mass/count distinction (Landman 2011, 2016; Sutton & Filip 2016, 2017) allows for the most accurate crosslinguistic predictions. Furthermore, the respective amounts of object mass nouns and morphosyntactic environments sensitive to the countability of nouns in Greek, Hungarian, and Japanese are relatively low when compared to those for English, and this comparison supports the hypothesis that there is a relationship between he number of object mass nouns in a language and the number of morphosyntactic environments sensitive to the countability of nouns in that language.
 
+Projects
+======
+* Erbach, K. The semantics of countability.
+* Erbach, K. and Berio, L. The acquisition of the mass/count distinction.
+* Erbach, K. and Kheder, D. Countability in Sorani Kurdish.
+* Erbach, K. and Schoenfeld, A. Subkind readings in Hungarian.
+* Erbach, K. and Skrimpa, V. Object mass nouns in Greek.
+* Sudo, Y., Schvarcz, B., and Erbach, K. The countability of food nouns in English.
+
 Publications
 ======
 * Erbach, K. (2020). [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698). *Proceedings of the Linguistic Society of America* 5.1 (2020): 228-241. [https://doi.org/10.3765/plsa.v5i1.4698](https://doi.org/10.3765/plsa.v5i1.4698).
