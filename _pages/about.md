@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since finishing my PhD at Heinrich-Heine-University, Düsseldrof in June of 2019, I have been working as a Lecturer of English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn. While teaching, I have expanded upon the work I began during my thesis by digging deeper into the countability systems in langauges like Greek and Sorani Kurdish, and by looking into the acquisition of the mass/count distinction.
+Since finishing my PhD at Heinrich-Heine-University, Düsseldrof in June of 2019, I have been working as a Lecturer of English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn. While teaching, I have expanded upon the work I began during my thesis by digging deeper into the countability systems in langauges like Hungarian and Sorani Kurdish, and by looking into the acquisition of the mass/count distinction.
 
 In my PhD thesis, “Object Mass Nouns: A Frame Based Analysis”, I motivate the hypothesis that there is a relationship between the number of object mass nouns in a language and the number of morphosyntactic environments sensitive to the countability of nouns in that language. My thesis investigates typologically distinct languages—Greek, Hungarian, and Japanese—for object mass nouns as a means of testing the adequacy of the leading theories of the mass/count distinction. This investigation reveals that a disjointness-based approach to the mass/count distinction (Landman 2011, 2016; Sutton & Filip 2016, 2017) allows for the most accurate crosslinguistic predictions. Furthermore, the respective amounts of object mass nouns and morphosyntactic environments sensitive to the countability of nouns in Greek, Hungarian, and Japanese are relatively low when compared to those for English, and this comparison supports the hypothesis that there is a relationship between he number of object mass nouns in a language and the number of morphosyntactic environments sensitive to the countability of nouns in that language.
 
@@ -17,10 +17,10 @@ My current research projects are listed below, as are my publications and course
 Projects
 ======
 * Erbach, K. The semantics of countability.
-* Erbach, K. and [Berio, L.](https://ledaberio.github.io) The acquisition of the mass/count distinction.
+* Erbach, K. and [Berio, L.](https://ledaberio.github.io) [Counting and categorizing: The relationship between the mass/count distinction and thought](https://uni-bonn.sciebo.de/s/1vmBiN9OOReZAfR).
 * Erbach, K. and Kheder, D. Countability in Sorani Kurdish.
-* Erbach, K. and Schoenfeld, A. Subkind readings in Hungarian.
-* Erbach, K. and Skrimpa, V. Object mass nouns in Greek.
+* Erbach, K. and Schoenfeld, A. Object mass nouns and subkind countability.
+* Erbach, K. and Skrimpa, V. [Object mass nouns in Greek](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
 * James, D., [Berio, L.](https://ledaberio.github.io), Kenyah-Damptey, B., and Erbach, K. A comparitive corpus study of "race" and "Rasse".
 * [Sudo, Y.](https://www.ucl.ac.uk/~ucjtudo/), Schvarcz, B., and Erbach, K. 'Fake count' nouns in English.
 
