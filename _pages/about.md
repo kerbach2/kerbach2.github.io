@@ -16,25 +16,25 @@ My current research projects are listed below, as are my publications and course
 
 Projects
 ======
-* Erbach, K. The semantics of countability.
-* Erbach, K. and [Berio, L.](https://ledaberio.github.io) [Counting and categorizing: The relationship between the mass/count distinction and thought](https://uni-bonn.sciebo.de/s/1vmBiN9OOReZAfR).
-* Erbach, K. and Kheder, D. Countability in Sorani Kurdish.
-* Erbach, K. and Schoenfeld, A. Object mass nouns and subkind countability.
-* Erbach, K. and Skrimpa, V. [Object mass nouns in Greek](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
-* James, D., [Berio, L.](https://ledaberio.github.io), Kenyah-Damptey, B., and Erbach, K. A comparitive corpus study of "race" and "Rasse".
-* [Sudo, Y.](https://www.ucl.ac.uk/~ucjtudo/), Schvarcz, B., and Erbach, K. 'Fake count' nouns in English.
+* Erbach, Kurt. The semantics of countability.
+* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io) [Counting and categorizing: The relationship between the mass/count distinction and thought](https://uni-bonn.sciebo.de/s/1vmBiN9OOReZAfR).
+* Erbach, Kurt and Delan Kheder. Countability in Sorani Kurdish.
+* Erbach, Kurt and [Schoenfeld, Aviv](https://avivschoenfeld.wordpress.com/). Object mass nouns and subkind countability.
+* Erbach, Kurt and Vasileia Skrimpa. [Object mass nouns in Greek](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
+* [Berio, Leda](https://ledaberio.github.io), Daniel James, Benjamin Kenyah-Damptey, and Kurt Erbach. A comparitive corpus study of "race" and "Rasse".
+* [Sudo, Yasu](https://www.ucl.ac.uk/~ucjtudo/), Bridget Schvarcz, and Kurt Erbach. 'Fake count' nouns in English.
 
 Publications
 ======
-* Erbach, K. and A. Schoenfeld. (submitted). [Object mass nouns and subkind countability](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn).
-* Erbach, K., [P.R. Sutton](http://peter-sutton.co.uk), [H. Filip](https://user.phil.hhu.de/~filip/), and K. Byrdeck. (2021). Object Mass Nouns as Arbiter for the Mass/Count Category. In T. Kiss, H. Husic, and F. Pelletier (eds.), *The Semantics of the Count-Mass Distinction*. Cambridge University Press. [Forthcoming](https://kerbach2.github.io/papers/erbach_sutton_filip_byrdeck_2019_object_mass_nouns_as_arbiter.pdf).
-* Erbach, K. (2020). [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698). *Proceedings of the Linguistic Society of America* 5.1 (2020): 228-241. [https://doi.org/10.3765/plsa.v5i1.4698](https://doi.org/10.3765/plsa.v5i1.4698).
-* Erbach, K. (2019). [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf). In Espinal, M.T., E. Castroviejo, M. Leonetti, L. McNally, and C. Real-Puigdollers (eds). *Proceedings of Sinn und Bedeutung 23*, vol 1. 413-431. Universitat Autònoma de Barcelona, Bellaterra (Cerdanyola del Vallès).
-* Erbach, K. and [L. Berio](https://ledaberio.github.io). (2019). [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2). In E. Pacuit and J. Sikos (eds). *At the Intersection of Language, Logic, and Information, Special Volume of Lecture notes in Computer Science*, vol 11667. pp 21-41. Springer. [Pre-final draft](https://kerbach2.github.io/papers/erbach_berio_2019_plurals_common_ground.pdf).
-* Erbach, K., [P.R. Sutton](http://peter-sutton.co.uk), and [H. Filip](https://user.phil.hhu.de/~filip/). (2019). [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas). In: A. Silva, S. Staton, P. Sutton, C. Umbach (eds.), *Language, Logic, and Computation. TbiLLC 2017. Lecture Notes in Computer Science*, vol 11456. pp. 86-107. Springer, Berlin, Heidelberg. [Pre-final draft](https://kerbach2.github.io/papers/erbach_sutton_filip_2019_Hungarian.pdf).
-* Erbach, K. (2018). Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates. In: Sikos, J. (ed). [*Proceedings of the ESSLLI 2018 Student Session*](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf). pp. 197-208.
-* Erbach, K., [P.R. Sutton](http://peter-sutton.co.uk), [H. Filip](https://user.phil.hhu.de/~filip/), and K. Byrdeck. (2017). Object Mass Nouns in Japanese. In: Cremers, A., T. van Gessel, and F. Roelofsen (eds). [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf). pp. 235-244.
-* Erbach, K. (2014). [*Coordinate Systems in Gã*](https://scholarworks.umt.edu/etd/4289/). ScholarWorks. Missoula: The University of Montana Maureen and Mike Mansfield Library. 
+* Erbach, Kurt and [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). (submitted). [Object mass nouns and subkind countability](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn).
+* Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck. (2021). Object Mass Nouns as Arbiter for the Mass/Count Category. In Tibor Kiss, Halima Husic, and Francis J. Pelletier (eds.), *The Semantics of the Count-Mass Distinction*. Cambridge University Press. [Forthcoming](https://kerbach2.github.io/papers/erbach_sutton_filip_byrdeck_2019_object_mass_nouns_as_arbiter.pdf).
+* Erbach, Kurt. (2020). [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698). *Proceedings of the Linguistic Society of America* 5.1 (2020): 228-241. [https://doi.org/10.3765/plsa.v5i1.4698](https://doi.org/10.3765/plsa.v5i1.4698).
+* Erbach, Kurt. (2019). [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf). In Espinal, M.T., E. Castroviejo, M. Leonetti, L. McNally, and C. Real-Puigdollers (eds). *Proceedings of Sinn und Bedeutung 23*, vol 1. 413-431. Universitat Autònoma de Barcelona, Bellaterra (Cerdanyola del Vallès).
+* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). (2019). [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2). In E. Pacuit and J. Sikos (eds). *At the Intersection of Language, Logic, and Information, Special Volume of Lecture notes in Computer Science*, vol 11667. pp 21-41. Springer. [Pre-final draft](https://kerbach2.github.io/papers/erbach_berio_2019_plurals_common_ground.pdf).
+* Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/). (2019). [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas). In: A. Silva, S. Staton, P. Sutton, C. Umbach (eds.), *Language, Logic, and Computation. TbiLLC 2017. Lecture Notes in Computer Science*, vol 11456. pp. 86-107. Springer, Berlin, Heidelberg. [Pre-final draft](https://kerbach2.github.io/papers/erbach_sutton_filip_2019_Hungarian.pdf).
+* Erbach, Kurt. (2018). Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates. In: Sikos, J. (ed). [*Proceedings of the ESSLLI 2018 Student Session*](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf). pp. 197-208.
+* Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck. (2017). Object Mass Nouns in Japanese. In: Cremers, A., T. van Gessel, and F. Roelofsen (eds). [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf). pp. 235-244.
+* Erbach, Kurt. (2014). [*Coordinate Systems in Gã*](https://scholarworks.umt.edu/etd/4289/). ScholarWorks. Missoula: The University of Montana Maureen and Mike Mansfield Library. 
 
 Teaching
 ======
