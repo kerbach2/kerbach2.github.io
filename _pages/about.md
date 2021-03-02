@@ -17,7 +17,7 @@ My current research projects are listed below, as are my publications and course
 Projects
 ======
 * Erbach, Kurt. The semantics of countability.
-* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io) [Counting and categorizing: The relationship between the mass/count distinction and thought](https://uni-bonn.sciebo.de/s/1vmBiN9OOReZAfR).
+* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). [Counting and categorizing: The relationship between the mass/count distinction and thought](https://uni-bonn.sciebo.de/s/1vmBiN9OOReZAfR).
 * Erbach, Kurt and Delan Kheder. Countability in Sorani Kurdish.
 * Erbach, Kurt and [Schoenfeld, Aviv](https://avivschoenfeld.wordpress.com/). Object mass nouns and subkind countability.
 * Erbach, Kurt and Vasileia Skrimpa. [Object mass nouns in Greek](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
