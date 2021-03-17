@@ -27,6 +27,7 @@ Projects
 Publications
 ======
 * Erbach, Kurt and [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). (submitted). [Object mass nouns and subkind countability](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn).
+* Erbach, Kurt and Delan Kheder. (submitted). [Countability in Sorani Kurdish](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq).
 * Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck. (2021). Object Mass Nouns as Arbiter for the Mass/Count Category. In Tibor Kiss, Halima Husic, and Francis J. Pelletier (eds.), *The Semantics of the Count-Mass Distinction*. Cambridge University Press. [Forthcoming](https://kerbach2.github.io/papers/erbach_sutton_filip_byrdeck_2019_object_mass_nouns_as_arbiter.pdf).
 * Erbach, Kurt. (2020). [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698). *Proceedings of the Linguistic Society of America* 5.1 (2020): 228-241. [https://doi.org/10.3765/plsa.v5i1.4698](https://doi.org/10.3765/plsa.v5i1.4698).
 * Erbach, Kurt. (2019). [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf). In Espinal, M.T., E. Castroviejo, M. Leonetti, L. McNally, and C. Real-Puigdollers (eds). *Proceedings of Sinn und Bedeutung 23*, vol 1. 413-431. Universitat Autònoma de Barcelona, Bellaterra (Cerdanyola del Vallès).
@@ -38,9 +39,14 @@ Publications
 
 Teaching
 ======
+* Erbach, K. (2021). Applied Linguistics. Universty of Bonn.
+* Erbach, K. (2021). English Linguistics. University of Bonn.
+* Erbach, K. (2021). Introduction to Semantics. University of Bonn.
+* Erbach, K. (2021). Language in Culture and Cognition: Speech Acts, Politeness, Discourse
+* Erbach, K. (2021). Varieties of English. University of Bonn.
 * Erbach, K. (2020). The acquisition of the mass/count distinction. Universty of Bonn.
-* Erbach, K. (2020). Applied Linguistics. Universty of Bonn.
 * Erbach, K. (2020). Corpus Linguistics. Universty of Bonn.
+* Erbach, K. (2020). Discourse and Power. Universty of Bonn.
 * Erbach, K. (2020). [The History of the English Langauge](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2020_summer.pdf). Universty of Bonn.
 * Erbach, K. (2020). [Introduction to Semantics](https://kerbach2.github.io/teaching/syllabus_Intro_Sem_2020_summer.pdf). Universty of Bonn.
 * Erbach, K. (2020). [Language in Culture and Cognition: Speech Acts, Politeness, Discourse](https://kerbach2.github.io/teaching/syllabus_App_Prag_2020_summer.pdf). Universty of Bonn.
