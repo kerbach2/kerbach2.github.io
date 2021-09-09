@@ -18,7 +18,7 @@ Projects
 ======
 * Erbach, Kurt. The evolution of countability systems.
 * Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). [Counting and categorizing: The relationship between the mass/count distinction and thought](https://uni-bonn.sciebo.de/s/1vmBiN9OOReZAfR).
-* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). [Countability shifts in the normative dimension](https://uni-bonn.sciebo.de/s/NrFVuFn0s31ZzPL).
+* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). [Countability shifts in the normative dimension](https://osf.io/juam7/).
 * Erbach, Kurt and [Schoenfeld, Aviv](https://avivschoenfeld.wordpress.com/). Countability of subkinds.
 * Erbach, Kurt and Vasileia Skrimpa. [Object mass nouns in Greek](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
 * [Berio, Leda](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html), and Kurt Erbach. [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/).
