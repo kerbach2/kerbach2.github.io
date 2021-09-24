@@ -14,13 +14,20 @@ In my PhD thesis, “[Object Mass Nouns: A Frame Based Analysis](https://docserv
 
 My current research projects are listed below, as are my publications and courses. My long term research goals include investigating the intra- and extralinguistic constraints on the evolution of grammatical systems like countability. Short term reserch goals include developing a better understanding of how countability works in present-day and historical languages, and how these systems have changed over time. I am also dedicated to anti-racist language research such as the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. Words may be wind, but wind is a very powerful force.
 
-Projects
+Current Projects
 ======
 * Erbach, Kurt. The evolution of countability systems.
-* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). [Counting and categorizing: The relationship between the mass/count distinction and thought](https://uni-bonn.sciebo.de/s/1vmBiN9OOReZAfR).
-* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). [Countability shifts in the normative dimension](https://osf.io/juam7/).
-* Erbach, Kurt and [Schoenfeld, Aviv](https://avivschoenfeld.wordpress.com/). Countability of subkinds.
-* Erbach, Kurt and Vasileia Skrimpa. [Object mass nouns in Greek](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
+* Erbach, Kurt and Delan Kheder. The count-mass distinction in Sorani Kurdish. 
+    * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
+* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). Counting and categorizing: The relationship between the mass/count distinction and thought.
+    * [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf) 
+* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). Countability shifts in the normative dimension.
+    * [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
+* Erbach, Kurt and [Schoenfeld, Aviv](https://avivschoenfeld.wordpress.com/). Countability and subkinds.
+    * The availability of the subkind reading across languages. Submitted.
+    * [Object mass nouns and subkind countability](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn). Submitted.
+* Erbach, Kurt and Vasileia Skrimpa. Object mass nouns in Greek.
+    * [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
 * [Berio, Leda](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html), and Kurt Erbach. [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/).
 * [Sudo, Yasu](https://www.ucl.ac.uk/~ucjtudo/), Bridget Schvarcz, and Kurt Erbach. 'Fake count' nouns in English.
 
