@@ -19,6 +19,8 @@ My current research projects are listed below, as are my publications and course
 Current Projects
 ======
 * Erbach, Kurt. The evolution of countability systems.
+    * [The evolutoin of the English countability system: From Old English to Present Day English](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
+    * [Pluralization and countability in Ghanaian and Tanzanian English](https://kerbach2.github.io/papers/Countability_in_Ghanaian_and_Tanzanian_English.pdf).
 * Erbach, Kurt and Delan Kheder. The count-mass distinction in Sorani Kurdish. 
     * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
 * Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). Counting and categorizing: The relationship between the mass/count distinction and thought.
