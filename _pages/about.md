@@ -8,32 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. After finishing my PhD in [linguistics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/) in June of 2019, I worked as a Lecturer of [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
+I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. After finishing my PhD in [linguistics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/) in June of 2019, and from October 2019 to September 2021 I worked as a Lecturer of [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
 
 My research currently revolves around the count--mass distinction, focusing on how to account for the different ways it is manifested across languages.
-In my PhD thesis, “[Object Mass Nouns: A Frame Based Analysis](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-59676/kurt%20erbach.thesis.pdf)”, I motivate the hypothesis that there is a relationship between the number of object mass nouns in a language and the number of morphosyntactic environments sensitive to the countability of nouns in that language. My thesis and subsequent work investigates typologically distinct languages-—Greek, Hungarian, Sorani Kurdish, and Japanese-—for morphosyntactic reflexes of the count--mass distinction as a means of testing and expanding upon the leading theories of the mass/count distinction. 
+In my PhD thesis, “[Object Mass Nouns: A Frame Based Analysis](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-59676/kurt%20erbach.thesis.pdf)”, I motivate the hypothesis that there is a relationship between the number of object mass nouns in a language and the number of morphosyntactic environments sensitive to the countability of nouns in that language. My thesis and subsequent work investigates typologically distinct languages-—Greek, Hungarian, Romanian, Sorani Kurdish, and Japanese-—for morphosyntactic reflexes of the count--mass distinction as a means of testing and expanding upon the leading theories of the mass/count distinction. 
 
 My current research projects are listed below, as are my publications and courses. My long term research goals include investigating the intra- and extralinguistic constraints on the evolution of grammatical systems like countability. Short term reserch goals include developing a better understanding of how countability works in present-day and historical languages, and how these systems have changed over time. I am also dedicated to anti-racist language research such as the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
 
 Current Projects
 ======
-* Erbach, Kurt. The evolution of countability systems.
-    * [The evolutoin of the English countability system: From Old English to Present Day English](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
-    * [Pluralization and countability in Ghanaian and Tanzanian English](https://kerbach2.github.io/papers/Countability_in_Ghanaian_and_Tanzanian_English.pdf).
-* Erbach, Kurt and Delan Kheder. The count-mass distinction in Sorani Kurdish. 
-    * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
-* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). Counting and categorizing: The relationship between the mass/count distinction and thought.
+* The evolution of countability systems.
+    * [The evolution of the English countability system: From Old English to Present Day English](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
+    * [Pluralization and countability across varieties of English](https://kerbach2.github.io/papers/Countability_in_Ghanaian_and_Tanzanian_English.pdf).
+* Counting and categorizing: The relationship between the mass/count distinction and thought; with [Leda Berio](https://ledaberio.github.io). 
     * [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf) 
-* Erbach, Kurt and [Leda Berio](https://ledaberio.github.io). Countability shifts in the normative dimension.
+* Countability shifts in the normative dimension; [Leda Berio](https://ledaberio.github.io). 
     * [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
-* Erbach, Kurt and [Schoenfeld, Aviv](https://avivschoenfeld.wordpress.com/). Countability and subkinds.
+* The count-mass distinction in Sorani Kurdish; with Delan Kheder.
+    * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
+* The count-mass distinction in Romanian; with Alyssa Löffler.
+    *  Syntactic versus semantic countability categories. In prep.
+* Countability and subkinds; with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
     * The availability of the subkind reading across languages. Submitted.
     * [Object mass nouns and subkind countability](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn). Submitted.
-* Erbach, Kurt and Vasileia Skrimpa. Object mass nouns in Greek.
+* Object mass nouns in Greek; with Vasileia Skrimpa.
     * [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
-* [Berio, Leda](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html), and Kurt Erbach. [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/).
-* [Sudo, Yasu](https://www.ucl.ac.uk/~ucjtudo/), Bridget Schvarcz, and Kurt Erbach. 'Fake count' nouns in English.
+* [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/); with [Berio, Leda](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
+* 'Fake count' nouns in English; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). 
 
 Publications
 ======
