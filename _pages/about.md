@@ -18,9 +18,8 @@ My current research projects are listed below, as are my publications and course
 
 Current Projects
 ======
-* The evolution of countability systems.
-    * [The evolution of the English countability system: From Old English to Present Day English](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
-    * [Pluralization and countability across varieties of English](https://kerbach2.github.io/papers/Countability_in_Ghanaian_and_Tanzanian_English.pdf).
+* [The evolution of the English countability system: From Old English to Present Day English](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
+* [Pluralization and countability across varieties of English](https://kerbach2.github.io/papers/Countability_in_Ghanaian_and_Tanzanian_English.pdf).
 * Counting and categorizing: The relationship between the mass/count distinction and thought; with [Leda Berio](https://ledaberio.github.io). 
     * [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf) 
 * Countability shifts in the normative dimension; [Leda Berio](https://ledaberio.github.io). 
@@ -34,7 +33,7 @@ Current Projects
     * [Object mass nouns and subkind countability](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn). Submitted.
 * Object mass nouns in Greek; with Vasileia Skrimpa.
     * [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
-* [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/); with [Berio, Leda](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
+* [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/); with [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
 * 'Fake count' nouns in English; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). 
 
 Publications
