@@ -19,6 +19,7 @@ My current research projects are listed below, as are my publications and course
 Current Projects
 ======
 * [The evolution of the English countability system: From Old English to Present Day English](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
+    * [Countability in the history of English: A first look](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
 * [Pluralization and countability across varieties of English](https://kerbach2.github.io/papers/Countability_in_Ghanaian_and_Tanzanian_English.pdf).
 * Counting and categorizing: The relationship between the mass/count distinction and thought; with [Leda Berio](https://ledaberio.github.io). 
     * [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf) 
