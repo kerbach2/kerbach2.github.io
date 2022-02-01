@@ -56,10 +56,6 @@ Publications
 * Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck. 2017. Object Mass Nouns in Japanese. In: Cremers, A., T. van Gessel, and F. Roelofsen (eds). [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf). pp. 235-244.
 * Erbach, Kurt. 2014. [*Coordinate Systems in Gã*](https://scholarworks.umt.edu/etd/4289/). ScholarWorks. Missoula: The University of Montana Maureen and Mike Mansfield Library. 
 
-Talks
-======
-* 
-
 Teaching
 ======
 * Erbach, K. 2021. Applied Linguistics. Universty of Bonn.
