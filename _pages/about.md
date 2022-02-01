@@ -18,20 +18,24 @@ My current research projects are listed below, as are my publications and course
 
 Current Projects
 ======
-* [The evolution of the English countability system: From Old English to Present Day English](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
-    * [Countability in the history of English: A first look](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
-* [Pluralization and countability across varieties of English](https://kerbach2.github.io/papers/Countability_in_Ghanaian_and_Tanzanian_English.pdf).
+* The evolution of the English countability system: From Old English to Present Day English
+    * [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
+    * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
+    * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
+* Countability across varieties of English
+    * [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
 * Counting and categorizing: The relationship between the mass/count distinction and thought; with [Leda Berio](https://ledaberio.github.io). 
     * [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf) 
 * Countability shifts in the normative dimension; [Leda Berio](https://ledaberio.github.io). 
     * [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
 * The count-mass distinction in Sorani Kurdish; with Delan Kheder.
+    * Countability in Sorani Kurdish. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq)
     * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
 * The count-mass distinction in Romanian; with Alyssa Löffler.
     *  Syntactic versus semantic countability categories. In prep.
-* Countability and subkinds; with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
+* Countability of subkinds and lexical plurals; with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
+    * Object mass nouns and subkind countability. [Submitted manuscript](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn).
     * The availability of the subkind reading across languages. Submitted.
-    * [Object mass nouns and subkind countability](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn). Submitted.
 * Object mass nouns in Greek; with Vasileia Skrimpa.
     * [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
 * [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/); with [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
@@ -51,6 +55,10 @@ Publications
 * Erbach, Kurt. 2018. Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates. In: Sikos, J. (ed). [*Proceedings of the ESSLLI 2018 Student Session*](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf). pp. 197-208.
 * Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck. 2017. Object Mass Nouns in Japanese. In: Cremers, A., T. van Gessel, and F. Roelofsen (eds). [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf). pp. 235-244.
 * Erbach, Kurt. 2014. [*Coordinate Systems in Gã*](https://scholarworks.umt.edu/etd/4289/). ScholarWorks. Missoula: The University of Montana Maureen and Mike Mansfield Library. 
+
+Talks
+======
+* 
 
 Teaching
 ======
