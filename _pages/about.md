@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. After finishing my PhD in [linguistics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/) in June of 2019, and from October 2019 to September 2021 I worked as a Lecturer of [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
+I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. I currently work as a Postdoc under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) in the [English Linguistics program Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). From October 2019 to September 2021 I worked as a Lecturer of [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en) under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider). I finished my PhD in [linguistics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/) in June of 2019, my advisor being [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm). 
 
-My research currently revolves around the count--mass distinction, focusing on how to account for the different ways it is manifested across languages.
-In my PhD thesis, “[Object Mass Nouns: A Frame Based Analysis](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-59676/kurt%20erbach.thesis.pdf)”, I motivate the hypothesis that there is a relationship between the number of object mass nouns in a language and the number of morphosyntactic environments sensitive to the countability of nouns in that language. My thesis and subsequent work investigates typologically distinct languages-—Greek, Hungarian, Romanian, Sorani Kurdish, and Japanese-—for morphosyntactic reflexes of the count--mass distinction as a means of testing and expanding upon the leading theories of the mass/count distinction. 
+My research currently focuses on the notion of semantic complexity, how it can be quantified, and how it affects language change. My current approach is to analyze the difference in the semantic complexity of the count--mass distinction across varities of English, both historical and in the present day. The count--mass distinction is an ideal place to analyze semantic complexity because of the myriad ways that languages have been shown to manifest this grammatical phenomenon. 
+
+My current research builds on that in my PhD thesis, “[Object Mass Nouns: A Frame Based Analysis](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-59676/kurt%20erbach.thesis.pdf)”, wherin I motivate the hypothesis that there is a relationship between the number of object mass nouns in a language and the number of morphosyntactic environments sensitive to the countability of nouns in that language. My thesis and subsequent work investigates typologically distinct languages-—Greek, Hungarian, Romanian, Sorani Kurdish, and Japanese-—for morphosyntactic reflexes of the count--mass distinction as a means of testing and expanding upon the leading theories of the mass/count distinction. 
 
 My current research projects are listed below, as are my publications and courses. My long term research goals include investigating the intra- and extralinguistic constraints on the evolution of grammatical systems like countability. Short term reserch goals include developing a better understanding of how countability works in present-day and historical languages, and how these systems have changed over time. I am also dedicated to anti-racist language research such as the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
@@ -58,6 +59,8 @@ Publications
 
 Teaching
 ======
+
+* Erbach, K. 2022. Contrasting Grammars Across Languages. Saarland University.
 * Erbach, K. 2021. Applied Linguistics. Universty of Bonn.
 * Erbach, K. 2021. English Linguistics. University of Bonn.
 * Erbach, K. 2021. Introduction to Semantics. University of Bonn.
