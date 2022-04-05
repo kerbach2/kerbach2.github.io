@@ -23,6 +23,7 @@ Current Projects
     * [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
     * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
+    * The development of the collectivization construction in English, [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf)
 * Countability across varieties of English
     * [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
 * Counting and categorizing: The relationship between the mass/count distinction and thought; with [Leda Berio](https://ledaberio.github.io). 
