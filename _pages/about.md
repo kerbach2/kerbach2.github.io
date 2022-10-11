@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. I currently work as a Postdoc under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) in the [English Linguistics program Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). From October 2019 to September 2021 I worked as a Lecturer of [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en) under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider). I finished my PhD in [linguistics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/) in June of 2019 under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm). 
+I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. I currently work as a Postdoc under both [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in the [English Linguistics program at the University of Wuerzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/), and under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics and Pragmatics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik). My previous appointments have been
+* Post-doc, under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). 
+* Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
+* PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [linguistics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/) in June of 2019 . 
 
 My research currently focuses on the notion of semantic complexity, how it can be quantified, and how it affects language change. My current approach is to analyze the difference in the semantic complexity of the count--mass distinction across varities of English, both historical and in the present day. The count--mass distinction is an ideal place to analyze semantic complexity because of the myriad ways that languages have been shown to manifest this grammatical phenomenon. 
 
@@ -19,17 +22,16 @@ My current research projects are listed below, as are my publications and course
 
 Current Projects
 ======
-* The evolution of the English countability system: From Old English to Present Day English
+* The evolution of the English countability system: From Old English to Present Day Englishes.
     * [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
     * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
     * The development of the collectivization construction in English, [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf)
-* Countability across varieties of English
-    * [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
-* Counting and categorizing: The relationship between the mass/count distinction and thought; with [Leda Berio](https://ledaberio.github.io). 
-    * [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf) 
-* Countability shifts in the normative dimension; [Leda Berio](https://ledaberio.github.io). 
-    * [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
+    * Countability across varieties of English, [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
+    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
+    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io), [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
+* Complexity at the syntax-semantics interface of English NPs.
+    * Countability across varieties of English, with Remus Gergel[.](https://kerbach2.github.io/papers/Erbach_Gergel_2022_poster_direct_pseudo-partitives.pdf)
 * The count-mass distinction in Sorani Kurdish; with Delan Kheder.
     * Countability in Sorani Kurdish. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq)
     * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
