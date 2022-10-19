@@ -42,7 +42,7 @@ Current Projects
     * The availability of the subkind reading across languages. Submitted.
 * Object mass nouns in Greek; with Vasileia Skrimpa.
     * [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
-* [A comparative corpus study of "race" and "Rasse"](https://das-r-wort.com/); with [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), Benedict Kenyah-Damptey, [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
+* [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
 * 'Fake count' nouns in English; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). 
 
 Publications
@@ -62,6 +62,9 @@ Teaching
 ======
 
 * Erbach, K. 2022. Contrasting Grammars Across Languages. Saarland University.
+* Erbach, K. and H. Filip. 2022. Genericity. Heinrich-Heine-University, Duesseldorf.
+* Erbach, K. 2022. Language and Power. University of Wuerzburg.
+* Erbach, K. and P. Maiwald. 2022. Research Methods in Linguistics. Saarland University.
 * Erbach, K. 2021. Applied Linguistics. Universty of Bonn.
 * Erbach, K. 2021. English Linguistics. University of Bonn.
 * Erbach, K. 2021. Introduction to Semantics. University of Bonn.
@@ -70,10 +73,10 @@ Teaching
 * Erbach, K. 2020. The acquisition of the mass/count distinction. Universty of Bonn.
 * Erbach, K. 2020. Corpus Linguistics. Universty of Bonn.
 * Erbach, K. 2020. Discourse and Power. Universty of Bonn.
-* Erbach, K. 2020. [The History of the English Langauge](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2020_summer.pdf). Universty of Bonn.
-* Erbach, K. 2020. [Introduction to Semantics](https://kerbach2.github.io/teaching/syllabus_Intro_Sem_2020_summer.pdf). Universty of Bonn.
-* Erbach, K. 2020. [Language in Culture and Cognition: Speech Acts, Politeness, Discourse](https://kerbach2.github.io/teaching/syllabus_App_Prag_2020_summer.pdf). Universty of Bonn.
+* Erbach, K. 2020. The History of the English Langauge. Universty of Bonn.
+* Erbach, K. 2020. Introduction to Semantics. Universty of Bonn.
+* Erbach, K. 2020. Language in Culture and Cognition: Speech Acts, Politeness, Discourse. Universty of Bonn.
 * Erbach, K. 2020. Methods in Applied Linguistics. Universty of Bonn.
-* Erbach, K. 2019. [English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf). Universty of Bonn.
-* Erbach, K. 2019. [The Mass/Count Distinction, Applied Investigations](https://kerbach2.github.io/teaching/syllabus_applied_mass_count_2019_winter.pdf). University of Bonn. [Introduction](https://kerbach2.github.io/teaching/LectureNotes01_Introduction_EngLing_MA_2019_WI.pdf)
-* Erbach, K. 2017. [Plurality](https://kerbach2.github.io/teaching/syllabus_plurality_2017_summer.pdf). Heinrich-Heine-University, Dusseldorf.
+* Erbach, K. 2019. English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf). Universty of Bonn.
+* Erbach, K. 2019. The Mass/Count Distinction, Applied Investigations. University of Bonn.
+* Erbach, K. 2017. Plurality. Heinrich-Heine-University, Dusseldorf.
