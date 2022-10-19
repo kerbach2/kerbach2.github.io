@@ -31,7 +31,7 @@ Current Projects
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
     * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io), [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
 * Complexity at the syntax-semantics interface of English NPs.
-    * Direct pseudo-partitives in American English, with Remus Gergel[.](https://kerbach2.github.io/papers/Erbach_Gergel_2022_poster_direct_pseudo-partitives.pdf)
+    * Direct pseudo-partitives in American English, with Remus Gergel.
 * The count-mass distinction in Sorani Kurdish; with Delan Kheder.
     * Countability in Sorani Kurdish. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq)
     * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
