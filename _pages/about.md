@@ -22,28 +22,34 @@ My current research projects are listed below, as are my publications and course
 
 Current Projects
 ======
-* The evolution of the English countability system: From Old English to Present Day Englishes.
-    * The evolution of the English countability system, [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
+The evolution of the English countability system: From Old English to Present Day Englishes.
+* The evolution of the English countability system, [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
     * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
     * The development of the collectivization construction in English, [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf)
-    * Countability across varieties of English, [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
+* Countability across varieties of English, [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
+* Meaning shifts in the present Day English countabiltiy system
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
     * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io), [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
-* Complexity at the syntax-semantics interface of English NPs.
-    * Direct pseudo-partitives in American English, with Remus Gergel.
+    * 'Fake count' nouns in English; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). 
+
+Countability across Languages.
 * The count-mass distinction in Sorani Kurdish; with Delan Kheder.
     * Countability in Sorani Kurdish. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq)
-    * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).
+    * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).   
 * The count-mass distinction in Romanian; with Alyssa Löffler.
     *  Syntactic versus semantic countability categories. In prep.
 * Countability of subkinds and lexical plurals; with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
-    * Object mass nouns and subkind countability. [Submitted manuscript](https://ling.auf.net/lingbuzz/005789/current.pdf?_s=fgMCo3nePqNXiKqn).
-    * The availability of the subkind reading across languages. Submitted.
 * Object mass nouns in Greek; with Vasileia Skrimpa.
     * [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
+
+Complexity at the syntax-semantics interface of English NPs.
+* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html).
+
+The concept of race in (US-American) English and (German) German.
 * [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
-* 'Fake count' nouns in English; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). 
+* How do Germans and US-
+Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. James, D., L. Berio, B. Kenyah-Damptey, and K. Erbach. (Under Review).
 
 Publications
 ======
