@@ -15,12 +15,12 @@ I am currently on the job market applying for grants and post-doc positions that
 
 My research currently focuses on the notion of semantic complexity, how it can be quantified, and how it affects language change. My current approach is to analyze the difference in the semantic complexity of the count-mass distinction across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in Greek, Hungarian, Sorani Kurdish, and Romanian. 
 
-My current research projects are listed below, as are my publications and courses. My long term research goals include investigating the intra- and extralinguistic constraints on the evolution of grammatical systems like countability. Short term reserch goals include developing a better understanding of how countability works in present-day and historical languages, and how these systems have changed over time. I am also dedicated to anti-racist language research such as the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
+My research projects are listed below, as are my publications and courses. My long term research goals include investigating the intra- and extralinguistic constraints on the evolution of grammatical systems like countability. Short term reserch goals include developing a better understanding of how countability works in present-day and historical languages, and how these systems have changed over time. I am also dedicated to anti-racist language research such as the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
 
-Current Projects
+Projects
 ======
-The evolution of the English countability system: From Old English to Present Day Englishes.
+The evolution of the English countability system: From Old to Present Day Englishes.
 * The evolution of the English countability system, [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
     * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
@@ -28,26 +28,39 @@ The evolution of the English countability system: From Old English to Present Da
 * Countability across varieties of English, [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
 * Meaning shifts in the present Day English countabiltiy system
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
-    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io), [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
+    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io). [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
     * 'Fake count' nouns in English; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). 
 
 Countability across Languages.
-* The count-mass distinction in Sorani Kurdish; with Delan Kheder.
-    * Countability in Sorani Kurdish. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq)
-    * [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).   
-* The count-mass distinction in Romanian; with Alyssa Löffler.
-    *  Syntactic versus semantic countability categories. In prep.
-* Countability of subkinds and lexical plurals; with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
-* Object mass nouns in Greek; with Vasileia Skrimpa.
-    * [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
+* Sorani Kurdish
+    * Countability in Sorani Kurdish, with Delan Kheder. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq)
+    * The count-mass distinction in Sorani Kurdish. [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).   
+* Romanian
+    * Syntactic versus semantic countability categories, with Alyssa Löffler. (In prep).
+* Greek
+    * Object mass nouns in Greek; with Vasileia Skrimpa. [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
+    * [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf).
+* Hungarian
+    * [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas), with [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/).
+    * [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/), with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). 
+    * Countability of subkinds and lexical plurals, with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
+* Japanese
+    * [Object Mass Nouns as Arbiter for the Mass/Count Category](https://doi.org/10.1017/9781108937979.008), with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck.
+    * [Object Mass Nouns in Japanese](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf), with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck.
+* [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698).
 
 Complexity at the syntax-semantics interface of English NPs.
-* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html).
+* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). (In prep).
 
 The concept of race in (US-American) English and (German) German.
-* [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
+* [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). (Under Review).
 * How do Germans and US-
 Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [L. Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and K. Erbach. (Under Review).
+
+Plurality, distributitivity, collectivity, cumulativity, and covers.
+* [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
+* [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2), with [Leda Berio](https://ledaberio.com/).
+
 
 Publications
 ======
@@ -67,9 +80,9 @@ Teaching
 ======
 
 * Erbach, K. 2022. Contrasting Grammars Across Languages. Saarland University.
-* Erbach, K. and H. Filip. 2022. Genericity. Heinrich-Heine-University, Duesseldorf.
 * Erbach, K. 2022. Language and Power. University of Wuerzburg.
-* Erbach, K. and P. Maiwald. 2022. Research Methods in Linguistics. Saarland University.
+* Erbach, K. and H. Filip. 2022. Genericity. Heinrich-Heine-University, Duesseldorf.
+* Erbach, K. and P. Maiwald. 2022. Research Methods in Linguistics. University of Wuerzburg.
 * Erbach, K. 2021. Applied Linguistics. Universty of Bonn.
 * Erbach, K. 2021. English Linguistics. University of Bonn.
 * Erbach, K. 2021. Introduction to Semantics. University of Bonn.
