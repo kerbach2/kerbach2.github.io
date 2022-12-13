@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  mastodon         : <a rel="me" href="https://lingo.lol/@kerbach2">Mastodon</a>
+  mastodon         : "https://lingo.lol/@kerbach2"
 
 # Reading Files
 include:
