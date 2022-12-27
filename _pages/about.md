@@ -17,7 +17,7 @@ My long term goal is refining notions of semantic complexity to better understan
 
 I am also committed to anti-racist language research, and am currently participating in the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
-My research projects are listed below, as are my publications and courses. You can find additional content on my Mastodon page [@kerbach2@lingo.lol](<a rel="me" href="https://lingo.lol/@kerbach2">Mastodon</a>). 
+My research projects are listed below, as are my publications and courses. You can find additional content on [my Mastodon page](<a rel="me" href="https://lingo.lol/@kerbach2"> @kerbach2@lingo.lol</a>). 
 
 
 Projects
