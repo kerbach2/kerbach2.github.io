@@ -13,9 +13,11 @@ I am currently on the job market applying for grants and post-doc positions that
 * Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
 * PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
 
-My research currently focuses on the notion of semantic complexity, how it can be quantified, and how it affects language change. My current approach is to analyze the difference in the semantic complexity of the count-mass distinction across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in Greek, Hungarian, Sorani Kurdish, and Romanian. 
+My long term goal is refining notions of semantic complexity to better understand how language changes. My short term goals include refining models noun phrases that capture the complexity of the count-mass distinction across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in Greek, Hungarian, Sorani Kurdish, and Romanian. 
 
-My research projects are listed below, as are my publications and courses. My long term research goals include investigating the intra- and extralinguistic constraints on the evolution of grammatical systems like countability. Short term reserch goals include developing a better understanding of how countability works in present-day and historical languages, and how these systems have changed over time. I am also dedicated to anti-racist language research such as the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
+I am also committed to anti-racist language research, and am currently participating in the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
+
+My research projects are listed below, as are my publications and courses. You can find additional content on my Mastodon page [@kerbach2@lingo.lol](<a rel="me" href="https://lingo.lol/@kerbach2">Mastodon</a>). 
 
 
 Projects
