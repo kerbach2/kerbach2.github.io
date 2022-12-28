@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+About
+======
+
 I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. I currently work as a Postdoc under both [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in the [English Linguistics program at the University of Wuerzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/), and under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik). My previous appointments have been
 * Post-doc, under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). 
 * Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
@@ -17,7 +20,7 @@ My long term goal is refining notions of semantic complexity to better understan
 
 I am also committed to anti-racist language research, and am currently participating in the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
-My research projects are listed below, as are my publications and courses. You can find additional content on [my Mastodon page]([url](https://lingo.lol/@kerbach2)){:rel="me"}. 
+My research projects are listed below, as are my [publications](Publications) and [courses](Teaching). You can find additional content on [my Mastodon page](https://lingo.lol/@kerbach2). 
 
 
 Projects
@@ -63,6 +66,7 @@ Plurality, distributitivity, collectivity, cumulativity, and covers.
 * [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
 * [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2), with [Leda Berio](https://ledaberio.com/).
 
+([Top of page](About))
 
 Publications
 ======
@@ -77,6 +81,8 @@ Publications
 * Erbach, Kurt. 2018. Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates. In: Sikos, J. (ed). [*Proceedings of the ESSLLI 2018 Student Session*](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf). pp. 197-208.
 * Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck. 2017. Object Mass Nouns in Japanese. In: Cremers, A., T. van Gessel, and F. Roelofsen (eds). [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf). pp. 235-244.
 * Erbach, Kurt. 2014. [*Coordinate Systems in Gã*](https://scholarworks.umt.edu/etd/4289/). ScholarWorks. Missoula: The University of Montana Maureen and Mike Mansfield Library. 
+
+([Top of page](About))
 
 Teaching
 ======
@@ -100,3 +106,5 @@ Teaching
 * Erbach, K. 2019. English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf). Universty of Bonn.
 * Erbach, K. 2019. The Mass/Count Distinction, Applied Investigations. University of Bonn.
 * Erbach, K. 2017. Plurality. Heinrich-Heine-University, Dusseldorf.
+
+([Top of page](About))
