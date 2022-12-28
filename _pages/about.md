@@ -17,7 +17,7 @@ My long term goal is refining notions of semantic complexity to better understan
 
 I am also committed to anti-racist language research, and am currently participating in the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
-My research projects are listed below, as are my publications and courses. You can find additional content on ```<a rel="me" href="https://lingo.lol/@kerbach2">my Mastodon page</a>)```. 
+My research projects are listed below, as are my publications and courses. You can find additional content on [my Mastodon page]([url](https://lingo.lol/@kerbach2)){:rel="me"}. 
 
 
 Projects
@@ -26,7 +26,7 @@ The evolution of the English countability system: From Old to Present Day Englis
 * The evolution of the English countability system, [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
     * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
-    * The development of the collectivization construction in English, [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf)
+    * The development of the collectivization construction in English. [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf). [Repository](https://github.com/kerbach2/collectivization).
 * Countability across varieties of English, [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
 * Meaning shifts in the present Day English countabiltiy system
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
@@ -44,7 +44,7 @@ Countability across Languages.
     * [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf).
 * Hungarian
     * [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas), with [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/).
-    * [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/), with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). 
+    * [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/), with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). [Repository](https://github.com/kerbach2/subkindcountability022022).
     * Countability of subkinds and lexical plurals, with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
 * Japanese
     * [Object Mass Nouns as Arbiter for the Mass/Count Category](https://doi.org/10.1017/9781108937979.008), with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck.
@@ -57,7 +57,7 @@ Complexity at the syntax-semantics interface of English NPs.
 The concept of race in (US-American) English and (German) German.
 * [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). (Under Review).
 * How do Germans and US-
-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [L. Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and K. Erbach. (Under Review).
+Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [L. Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and K. Erbach. (Under Review). [Repository](https://github.com/kerbach2/dasRwort).
 
 Plurality, distributitivity, collectivity, cumulativity, and covers.
 * [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
