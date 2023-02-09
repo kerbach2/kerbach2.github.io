@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the job market applying for grants and post-doc positions that will allow me to continue to research and teach about natural language semantics. I currently work as a Postdoc under both [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in the [English Linguistics program at the University of Wuerzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/), and under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik). My previous appointments have been
+I am currently on the job market applying for grants and academic positions that will allow me to continue to research and teach about natural language semantics. I currently work as a Postdoc under both [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in the [English Linguistics program at the University of Wuerzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/), and under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik). My previous appointments have been
 * Post-doc, under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). 
 * Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
 * PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
@@ -23,11 +23,10 @@ My research projects are listed below, as are my publications and courses. You c
 Projects
 ======
 **The evolution of the English countability system: From Old to Present Day Englishes.**
-* The evolution of the English countability system, [Project proposal](https://kerbach2.github.io/papers/Countability_in_Old_to_Present_Day_English.pdf).
+* The evolution of the English countability system.
     * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
     * The development of the collectivization construction in English. [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf). [Repository](https://github.com/kerbach2/collectivization).
-* Countability across varieties of English, [Project proposal](https://kerbach2.github.io/papers/Erbach_2022_countability_across_varieties_of_English.pdf).
 * Meaning shifts in the present Day English countabiltiy system
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
     * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io). [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
