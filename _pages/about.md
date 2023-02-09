@@ -55,16 +55,17 @@ Projects
 * Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). (In prep).
 
 **The concept of race in (US-American) English and (German) German.**
-* [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). (Under Review).
+* [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
 * How do Germans and US-
 Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [L. Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and K. Erbach. (Under Review). [Repository](https://github.com/kerbach2/dasRwort).
 
-**Plurality, distributitivity, collectivity, cumulativity, and covers.**
+**Plural predication.**
 * [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
 * [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2), with [Leda Berio](https://ledaberio.com/).
 
 Publications
 ======
+* Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. [A comparative corpus study of "race" and "Rasse"](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub). Applied Corpus Linguistics. [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
 * Erbach, Kurt and [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). 2022. [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/). Glossa: a journal of general linguistics (7)1. doi: [https://doi.org/10.16995/glossa.5788](https://doi.org/10.16995/glossa.5788)
 * Erbach, Kurt and [Leda Berio](https://ledaberio.com/). 2022. [Countability shifts in the normative dimension](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf). in Gutzmann, Daniel & Sophie Repp, Eds. [Proceedings of Sinn und Beduetung 26](https://ruhr-uni-bochum.sciebo.de/s/7mmqET55GSGUh46). Universität zu Köln.
 * Erbach, Kurt. 2021. [Object Mass Nouns: A Frame Based Analysis](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-59676/kurt%20erbach.thesis.pdf). Heinrich-Heine-University, Duesseldorf. PhD Dissertation.
