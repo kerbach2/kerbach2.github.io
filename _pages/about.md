@@ -25,21 +25,21 @@ Projects
 **The evolution of the English countability system: From Old to Present Day Englishes.**
 * The evolution of the English countability system.
     * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
-    * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf)
+    * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf).
     * The development of the collectivization construction in English. [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf). [Repository](https://github.com/kerbach2/collectivization).
-* Meaning shifts in the present Day English countabiltiy system
+* Meaning shifts in the present Day English countabiltiy system.
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
     * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io). [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
-    * Varieties of mass/count interpretation of hybrid nouns; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). [Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136)
+    * Varieties of mass/count interpretation of hybrid nouns; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). [Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136).
 
 **Countability across Languages.**
 * Sorani Kurdish
-    * Countability in Sorani Kurdish, with Delan Kheder. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq)
+    * Countability in Sorani Kurdish, with Delan Kheder. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq).
     * The count-mass distinction in Sorani Kurdish. [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).   
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler. (In prep).
 * Greek
-    * Object mass nouns in Greek; with Vasileia Skrimpa. [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9)
+    * Object mass nouns in Greek; with Vasileia Skrimpa. [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
     * [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf).
 * Hungarian
     * [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas), with [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/).
