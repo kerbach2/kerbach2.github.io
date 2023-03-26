@@ -26,13 +26,12 @@ My research projects are listed below, as are my publications and courses. You c
 Projects
 ======
 **The evolution of the English countability system: From Old to Present Day Englishes.**
-* The evolution of the English countability system.
-    * Countability in the history of English: A first look, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Countability_Hist_Eng_first_look_handout.pdf).
+* Diachronic analyses.
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf).
     * The development of the collectivization construction in English. [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf). [Repository](https://github.com/kerbach2/collectivization).
-* Meaning shifts in the present Day English countabiltiy system.
-    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
+* Countability in present Day Englishes.
     * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io). [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
+    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
     * Varieties of mass/count interpretation of hybrid nouns; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). [Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136).
 
 **Countability across Languages.**
