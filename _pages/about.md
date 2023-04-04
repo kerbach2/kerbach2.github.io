@@ -30,7 +30,7 @@ Projects
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf).
     * The development of the collectivization construction in English. [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf). [Repository](https://github.com/kerbach2/collectivization).
 * Countability in present Day Englishes.
-    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io). [SuB 26](https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26) [Abstract](https://idsl1.phil-fak.uni-koeln.de/sites/IDSLI/dozentenseiten/gutzmann/SuB26-74.pdf), [Poster](https://osf.io/juam7/).
+    * [Countability shifts in the normative dimension](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf), with [Leda Berio](https://ledaberio.github.io).
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
     * Varieties of mass/count interpretation of hybrid nouns; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). [Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136).
 
@@ -56,9 +56,9 @@ Projects
 * Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). (In prep).
 
 **The concept of race in (US-American) English and (German) German.**
-* [A comparative corpus study of "race" and "Rasse"](https://kerbach2.github.io/papers/Erbach_et_al_2022_A_comparative_corpus_study_of_race_and_Rasse_submitted.pdf); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
+* [A comparative corpus study of "race" and "Rasse"](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
 * How do Germans and US-
-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [L. Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and K. Erbach. (Under Review). [Repository](https://github.com/kerbach2/dasRwort).
+Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and Kurt Erbach. (Under Review). [Repository](https://github.com/kerbach2/dasRwort).
 
 **Plural predication.**
 * [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
