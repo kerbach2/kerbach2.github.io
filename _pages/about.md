@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the job market applying for grants and academic positions that will allow me to continue to research and teach about natural language semantics. I currently work as a Postdoc under both [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) in the [Institute of Linguistics at the University of Frankfurt](https://www.linguistik-in-frankfurt.de/en/front-page/en/#pll_switcher), and under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik) as part of the [IDEAlISM project](https://dynamicalternatives.wordpress.com/). 
-
-My previous appointments have been
-* Post-doc, under [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in the [English Linguistics program at the University of Wuerzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/). 
-* Post-doc, under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). 
-* Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
-* PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
+I am currently researcher and lecturer working on nominal semantics, focusing primarily on countability. I currently work as a Postdoc in the [IDEAlISM project](https://dynamicalternatives.wordpress.com/) under both [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) in the [Institute of Linguistics at the University of Frankfurt](https://www.linguistik-in-frankfurt.de/en/front-page/en/#pll_switcher), and [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik). 
 
 My long term goal is refining notions of semantic complexity to better understand how language changes. My short term goals include refining models noun phrases that capture the complexity of the count-mass distinction across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in Greek, Hungarian, Sorani Kurdish, and Romanian. 
 
@@ -22,10 +16,16 @@ I am also committed to anti-discrimination language research, and am currently p
 
 My research projects are listed below, as are my publications and courses. You can find additional content on [my Mastodon page](https://lingo.lol/@kerbach2). 
 
+Previous appointments
+======
+* Post-doc, under [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in the [English Linguistics program at the University of Wuerzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/). 
+* Post-doc, under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). 
+* Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
+* PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
 
 Projects
 ======
-**The evolution of the English countability system: From Old to Present Day Englishes.**
+**Countability in English.**
 * Diachronic analyses.
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf).
     * The development of the collectivization construction in English. [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf). [Repository](https://github.com/kerbach2/collectivization).
@@ -98,6 +98,6 @@ Teaching
 * Erbach, K. 2020. Introduction to Semantics. Universty of Bonn.
 * Erbach, K. 2020. Language in Culture and Cognition: Speech Acts, Politeness, Discourse. Universty of Bonn.
 * Erbach, K. 2020. Methods in Applied Linguistics. Universty of Bonn.
-* Erbach, K. 2019. English Linguistics](https://kerbach2.github.io/teaching/syllabus_Eng_Ling_2019_winter.pdf). Universty of Bonn.
+* Erbach, K. 2019. English Linguistics. Universty of Bonn.
 * Erbach, K. 2019. The Mass/Count Distinction, Applied Investigations. University of Bonn.
 * Erbach, K. 2017. Plurality. Heinrich-Heine-University, Dusseldorf.
