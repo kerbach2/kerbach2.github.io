@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently researcher and lecturer working on nominal semantics, focusing primarily on countability. I currently work as a Postdoc in the [IDEAlISM project](https://dynamicalternatives.wordpress.com/) under both [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) in the [Institute of Linguistics at the University of Frankfurt](https://www.linguistik-in-frankfurt.de/en/front-page/en/#pll_switcher), and [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik). 
+I am currently researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. I am currently working on my Habilitation under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://www.linguistik-in-frankfurt.de/en/front-page/en/#pll_switcher) under  [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/).
 
-My long term goal is refining notions of semantic complexity to better understand how language changes. My short term goals include refining models noun phrases that capture the complexity of the count-mass distinction across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in Greek, Hungarian, Sorani Kurdish, and Romanian. 
+My long term goal is refining notions of semantic complexity to better understand how language changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
 
 I am also committed to anti-discrimination language research, and am currently participating in the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
@@ -18,6 +18,8 @@ My research projects are listed below, as are my publications and courses. You c
 
 Previous appointments
 ======
+* Post-doc, under [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) in the [IDEAlISM project](https://dynamicalternatives.wordpress.com/).
+* Post-doc, under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in the [Semantics program at the University of Duesseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik).
 * Post-doc, under [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in the [English Linguistics program at the University of Wuerzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/). 
 * Post-doc, under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). 
 * Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
@@ -25,6 +27,10 @@ Previous appointments
 
 Projects
 ======
+**Partitivity in English.**
+* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). (Submitted).
+* Partitives in the Grammatical History Germanic Languages, with [Johanna Wood](https://pure.au.dk/portal/en/persons/johanna-wood(a511fcbe-5e6b-4d3e-b4ba-555286341c94).html). (In prep).
+
 **Countability in English.**
 * Diachronic analyses.
     * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf).
@@ -52,17 +58,14 @@ Projects
     * [Object Mass Nouns in Japanese](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf), with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck.
 * [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698).
 
-**Complexity at the syntax-semantics interface of English NPs.**
-* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). (In prep).
+**Plural predication.**
+* [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
+* [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2), with [Leda Berio](https://ledaberio.com/).
 
 **The concept of race in (US-American) English and (German) German.**
 * [A comparative corpus study of "race" and "Rasse"](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
 * How do Germans and US-
 Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and Kurt Erbach. (Under Review). [Repository](https://github.com/kerbach2/dasRwort).
-
-**Plural predication.**
-* [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
-* [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2), with [Leda Berio](https://ledaberio.com/).
 
 Publications
 ======
