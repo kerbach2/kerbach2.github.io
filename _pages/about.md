@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. I am currently working on my Habilitation under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://www.linguistik-in-frankfurt.de/en/front-page/en/#pll_switcher) under  [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/).
+I am currently researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. I am currently working on my Habilitation under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://www.linguistik-in-frankfurt.de/en/front-page/en/#pll_switcher) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/).
 
 My long term goal is refining notions of semantic complexity to better understand how language changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
 
@@ -28,44 +28,43 @@ Previous appointments
 Projects
 ======
 **Partitivity in English.**
-* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). (Submitted).
-* Partitives in the Grammatical History Germanic Languages, with [Johanna Wood](https://pure.au.dk/portal/en/persons/johanna-wood(a511fcbe-5e6b-4d3e-b4ba-555286341c94).html). (In prep).
+* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Paper submitted).
+* Partitives in the Grammatical History Germanic Languages, with [Johanna Wood](https://pure.au.dk/portal/en/persons/johanna-wood(a511fcbe-5e6b-4d3e-b4ba-555286341c94).html) (Paper in prep).
 
 **Countability in English.**
 * Diachronic analyses.
-    * Semantic change in the history of the English countability system, [Slides](https://kerbach2.github.io/papers/Erbach_2021_Sem_change_Eng_countabiltiy_handout.pdf).
-    * The development of the collectivization construction in English. [Abstract](https://kerbach2.github.io/papers/Erbach_2021_dev_coll_construction_abstract.pdf). [Repository](https://github.com/kerbach2/collectivization).
+    * Towards a history of the English countability system ([Slides](https://www.google.com/url?q=https%3A%2F%2Fkerbach2.github.io%2Fpapers%2FErbach_2022_slides_Hist_Eng_countability_.pdf&sa=D&sntz=1&usg=AOvVaw1SgvVMJf5HSKYSlBdv8knb) from the 2022 [Workshop on Part-whole structures in natural language](https://sites.google.com/view/part-whole-workshop)).
+    * The development of the collectivization construction in English (Paper in prep).
 * Countability in present Day Englishes.
-    * [Countability shifts in the normative dimension](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf), with [Leda Berio](https://ledaberio.github.io).
-    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), [SemPrE Abstract](https://user.phil.hhu.de/~filip/sempre.htm), [Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf). 
-    * Varieties of mass/count interpretation of hybrid nouns; with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/). [Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136).
+    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).
+    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), ([Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf)). 
+    * Varieties of mass/count interpretation of hybrid nouns, with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) ([Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136)).
 
 **Countability across Languages.**
 * Sorani Kurdish
-    * Countability in Sorani Kurdish, with Delan Kheder. [Submitted Manuscript](https://uni-bonn.sciebo.de/s/84afHsRKVFNnqfq).
-    * The count-mass distinction in Sorani Kurdish. [ICKL-5](https://kurdishlinguistics2021.uni-graz.at/en/) [Abstract](https://uni-bonn.sciebo.de/s/mWi9egB9kBZgqGA), [Slides](https://uni-bonn.sciebo.de/s/aShYIY5SjWnVUzf).   
+    * Countability in Sorani Kurdish, with Delan Kheder ([Abstract](https://www.linguisticsociety.org/abstract/masscount-distinction-sorani-kurdish)).
+    * The count-mass distinction in Sorani Kurdish (Paper under review).   
 * Romanian
-    * Syntactic versus semantic countability categories, with Alyssa Löffler. (In prep).
+    * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Greek
-    * Object mass nouns in Greek; with Vasileia Skrimpa. [LSA 93](https://www.linguisticsociety.org/event/lsa-2019-annual-meeting) [Poster](https://uni-bonn.sciebo.de/s/t09yWAizCja2Qz9).
-    * [A measure based analysis of plural nouns in Greek](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf).
+    * Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).
+    * A measure based analysis of plural nouns in Greek ([Paper](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf)).
 * Hungarian
-    * [Bare nouns and the Hungarian mass/count distinction](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas), with [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/).
-    * [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/), with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). [Repository](https://github.com/kerbach2/subkindcountability022022).
-    * Countability of subkinds and lexical plurals, with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/).
+    * Bare nouns and the Hungarian mass/count distinction, with [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas)).
+    * Object mass nouns and subkind countability, with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/) ([Paper](https://www.glossa-journal.org/article/id/5788/), [Repository](https://github.com/kerbach2/subkindcountability022022)).
 * Japanese
-    * [Object Mass Nouns as Arbiter for the Mass/Count Category](https://doi.org/10.1017/9781108937979.008), with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck.
-    * [Object Mass Nouns in Japanese](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf), with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck.
-* [Predicting object mass nouns across languges](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698).
+    * Object Mass Nouns as Arbiter for the Mass/Count Category, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://doi.org/10.1017/9781108937979.008)).
+    * Object Mass Nouns in Japanese, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf)).
+* Predicting object mass nouns across languges ([Paper](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698)).
 
 **Plural predication.**
-* [Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)
-* [Readings of Plurals and Common Ground](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2), with [Leda Berio](https://ledaberio.com/).
+* Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates ([Paper](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)).
+* Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/), ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)).
 
 **The concept of race in (US-American) English and (German) German.**
-* [A comparative corpus study of "race" and "Rasse"](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub); with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 
+* A comparative corpus study of "race" and "Rasse", with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html) ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub)). 
 * How do Germans and US-
-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions. [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), and Kurt Erbach. (Under Review). [Repository](https://github.com/kerbach2/dasRwort).
+Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review [Repository](https://github.com/kerbach2/dasRwort)).
 
 Publications
 ======
