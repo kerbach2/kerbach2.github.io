@@ -14,8 +14,6 @@ My long term goal is refining notions of semantic complexity to better understan
 
 I am also committed to anti-discrimination language research, and am currently participating in the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
-My research projects are listed below, as are my publications and courses. You can find additional content on [my Mastodon page](https://lingo.lol/@kerbach2). 
-
 Previous appointments
 ======
 * Post-doc, under [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) in the [IDEAlISM project](https://dynamicalternatives.wordpress.com/).
@@ -28,27 +26,27 @@ Previous appointments
 Projects
 ======
 **Partitivity in English.**
-* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Paper submitted).
+* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (R&R).
 * Partitives in the Grammatical History Germanic Languages, with [Johanna Wood](https://pure.au.dk/portal/en/persons/johanna-wood(a511fcbe-5e6b-4d3e-b4ba-555286341c94).html) (Paper in prep).
 
 **Countability in English.**
 * Diachronic analyses.
     * Towards a history of the English countability system ([Slides](https://www.google.com/url?q=https%3A%2F%2Fkerbach2.github.io%2Fpapers%2FErbach_2022_slides_Hist_Eng_countability_.pdf&sa=D&sntz=1&usg=AOvVaw1SgvVMJf5HSKYSlBdv8knb) from the 2022 [Workshop on Part-whole structures in natural language](https://sites.google.com/view/part-whole-workshop)).
-    * The development of the collectivization construction in English (Paper in prep).
+    * The development of the collectivization construction in English (Manuscript available by request).
 * Countability in present Day Englishes.
     * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), ([Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf)). 
     * Varieties of mass/count interpretation of hybrid nouns, with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) ([Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136)).
 
-**Countability across Languages.**
-* Sorani Kurdish
-    * Countability in Sorani Kurdish, with Delan Kheder ([Abstract](http://www.ijoks.com/en/pub/ijoks/article/1356084)).
-    * The count-mass distinction in Sorani Kurdish (Paper under review).   
+**Countability across Languages.**   
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Greek
     * Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).
     * A measure based analysis of plural nouns in Greek ([Paper](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf)).
+* Sorani Kurdish
+    * Countability in Sorani Kurdish, with Delan Kheder ([Forthcoming](http://www.ijoks.com/en/pub/ijoks/article/1356084)).
+    * The count-mass distinction in Sorani Kurdish (R&R).
 * Hungarian
     * Bare nouns and the Hungarian mass/count distinction, with [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas)).
     * Object mass nouns and subkind countability, with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/) ([Paper](https://www.glossa-journal.org/article/id/5788/), [Repository](https://github.com/kerbach2/subkindcountability022022)).
@@ -56,6 +54,7 @@ Projects
     * Object Mass Nouns as Arbiter for the Mass/Count Category, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://doi.org/10.1017/9781108937979.008)).
     * Object Mass Nouns in Japanese, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf)).
 * Predicting object mass nouns across languges ([Paper](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698)).
+    * The acquisition of object mass nouns. (In prep.)
 
 **Plural predication.**
 * Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates ([Paper](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)).
@@ -84,6 +83,8 @@ Publications
 Teaching
 ======
 
+* Erbach, K. 2024. Topics in English semantics and pragmatics. Saarland University.
+* Erbach, K. 2023. Varieties of English. Saarland University. 
 * Erbach, K. 2022. Contrasting Grammars Across Languages. Saarland University.
 * Erbach, K. 2022. Language and Power. University of Wuerzburg.
 * Erbach, K. and H. Filip. 2022. Genericity. Heinrich-Heine-University, Duesseldorf.
