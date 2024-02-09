@@ -42,7 +42,7 @@ Projects
 
 **Countability across Languages.**
 * Sorani Kurdish
-    * Countability in Sorani Kurdish, with Delan Kheder ([Abstract](https://www.linguisticsociety.org/abstract/masscount-distinction-sorani-kurdish)).
+    * Countability in Sorani Kurdish, with Delan Kheder ([Abstract](http://www.ijoks.com/en/pub/ijoks/article/1356084)).
     * The count-mass distinction in Sorani Kurdish (Paper under review).   
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
