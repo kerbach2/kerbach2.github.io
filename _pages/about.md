@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. I am currently working on my Habilitation under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/).
+I am a researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/).
 
-My long term goal is refining notions of semantic complexity to better understand how language changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
+My long term goal is rmodeling semantic complexity and its role in diachronic changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
 
 I am also committed to anti-discrimination language research, and am currently participating in the project [A comparitive corpus study of "race" and "Rasse"](https://das-r-wort.com/), which aims to investigate anti-racist language use and language policy. 
 
