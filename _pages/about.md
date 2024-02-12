@@ -58,8 +58,7 @@ Projects
 * Predicting object mass nouns across languges ([Paper](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698)).
 
 **The concept of race in (US-American) English and (German) German.**
-* How do Germans and US-
-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review) ([Repository](https://github.com/kerbach2/dasRwort)).
+* How do Germans and US-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review) ([Repository](https://github.com/kerbach2/dasRwort)).
 * A comparative corpus study of "race" and "Rasse", with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html) ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub)). 
 
 **Plural predication.**
