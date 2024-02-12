@@ -10,7 +10,7 @@ redirect_from:
 
 I am a researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/).
 
-My long term goal is rmodeling semantic complexity and its role in diachronic changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
+My long term goal is modeling semantic complexity and its role in diachronic changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
 
 I am also committed to anti-discrimination language research, and am currently participating in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/stabsstelle-buergeruniversitaet/foerderung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which aims to investigate anti-racist language use and language policy in Germany and the US. 
 
@@ -40,13 +40,13 @@ Projects
     * Varieties of mass/count interpretation of hybrid nouns, with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) ([Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136)).
 
 **Countability across Languages.**   
-* The acquisition of object mass nouns (In prep).
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Sorani Kurdish
     * The count-mass distinction in Sorani Kurdish (R&R).
     * Countability in Sorani Kurdish, with Delan Kheder ([Forthcoming](http://www.ijoks.com/en/pub/ijoks/article/1356084)).
 * Greek
+    * The acquisition of object mass nouns (In prep).
     * Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).
     * A measure based analysis of plural nouns in Greek ([Paper](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf)).
 * Hungarian
@@ -59,13 +59,12 @@ Projects
 
 **The concept of race in (US-American) English and (German) German.**
 * How do Germans and US-
-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review [Repository](https://github.com/kerbach2/dasRwort)).
+Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review) ([Repository](https://github.com/kerbach2/dasRwort)).
 * A comparative corpus study of "race" and "Rasse", with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html) ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub)). 
-
 
 **Plural predication.**
 * Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates ([Paper](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)).
-* Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/), ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)).
+* Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)).
 
 
 Publications
