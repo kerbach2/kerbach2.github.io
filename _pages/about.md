@@ -12,7 +12,7 @@ I am a researcher and lecturer working on nominal semantics, focusing on changes
 
 My long term goal is modeling semantic complexity and its role in diachronic changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
 
-I am also committed to anti-discrimination language research, and am currently participating in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/stabsstelle-buergeruniversitaet/foerderung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which aims to investigate anti-racist language use and language policy in Germany and the US. 
+I am also committed to anti-discrimination language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/stabsstelle-buergeruniversitaet/foerderung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated anti-racist language use and language policy in Germany and the US. 
 
 Previous appointments
 ======
@@ -27,7 +27,7 @@ Projects
 ======
 **Partitivity in English.**
 * Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (R&R).
-* Partitives in the Grammatical History Germanic Languages, with [Johanna Wood](https://pure.au.dk/portal/en/persons/johanna-wood(a511fcbe-5e6b-4d3e-b4ba-555286341c94).html) (Paper in prep).
+* Partitives in the Grammatical History Germanic Languages (Submitted).
 
 **Countability in English.**
 * Diachronic analyses.
@@ -44,7 +44,7 @@ Projects
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Sorani Kurdish
     * The count-mass distinction in Sorani Kurdish (R&R).
-    * Countability in Sorani Kurdish, with Delan Kheder ([Forthcoming](http://www.ijoks.com/en/pub/ijoks/article/1356084)).
+    * Countability in Sorani Kurdish, with Delan Kheder ([Paper](http://www.ijoks.com/tr/download/article-file/3389302)).
 * Greek
     * The acquisition of object mass nouns (In prep).
     * Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).
