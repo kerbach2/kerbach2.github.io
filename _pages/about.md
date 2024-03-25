@@ -34,8 +34,8 @@ Projects
     * Towards a history of the English countability system ([Slides](https://www.google.com/url?q=https%3A%2F%2Fkerbach2.github.io%2Fpapers%2FErbach_2022_slides_Hist_Eng_countability_.pdf&sa=D&sntz=1&usg=AOvVaw1SgvVMJf5HSKYSlBdv8knb) from the 2022 [Workshop on Part-whole structures in natural language](https://sites.google.com/view/part-whole-workshop)).
 * Countability in present Day Englishes.
     * Non-canonical countability shifts (R&R).
-    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.github.io) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).
-    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.github.io), ([Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf)). 
+    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.com/) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).
+    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.com/), ([Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf)). 
     * Varieties of mass/count interpretation of hybrid nouns, with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) ([Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136)).
 
 **Countability across Languages.**   
@@ -68,7 +68,7 @@ Projects
 Publications
 ======
 * Erbach, Kurt and Delan Kheder. 2024.  Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
-* Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. A comparative corpus study of "race" and "Rasse". *Applied Corpus Linguistics 3*(2023). 1-10. DOI: [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
+* Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.com/), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. A comparative corpus study of "race" and "Rasse". *Applied Corpus Linguistics 3*(2023). 1-10. DOI: [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
 * Erbach, Kurt and [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). 2022. [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/). *Glossa: a journal of general linguistics* (7)1. 1-31. DOI: [https://doi.org/10.16995/glossa.5788](https://doi.org/10.16995/glossa.5788)
 * Erbach, Kurt and [Leda Berio](https://ledaberio.com/). 2022. [Countability shifts in the normative dimension](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf). in Gutzmann, Daniel & Sophie Repp, Eds. *[Proceedings of Sinn und Beduetung 26](https://ruhr-uni-bochum.sciebo.de/s/7mmqET55GSGUh46)*. Universität zu Köln.
 * Erbach, Kurt. 2021. *[Object Mass Nouns: A Frame Based Analysis](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-59676/kurt%20erbach.thesis.pdf)*. Heinrich-Heine-University, Duesseldorf. PhD Dissertation.
