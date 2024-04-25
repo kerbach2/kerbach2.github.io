@@ -25,7 +25,7 @@ Previous appointments
 Projects
 ======
 **Partitivity in English.**
-* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (R&R).
+* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Forthcoming).
 * Partitives in the Grammatical History Germanic Languages (Submitted).
 
 **Countability in English.**
@@ -67,6 +67,7 @@ Projects
 
 Publications
 ======
+* Erbach, Kurt and Remus Gergel. Forthcoming.  Direct pseudo-partitives in US English. *Linguistics Vanguard*
 * Erbach, Kurt and Delan Kheder. 2024.  Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
 * Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.com/), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. A comparative corpus study of "race" and "Rasse". *Applied Corpus Linguistics 3*(2023). 1-10. DOI: [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
 * Erbach, Kurt and [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). 2022. [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/). *Glossa: a journal of general linguistics* (7)1. 1-31. DOI: [https://doi.org/10.16995/glossa.5788](https://doi.org/10.16995/glossa.5788)
