@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/).
+I am a researcher and lecturer working on nominal semantics, focusing on changes in partitivity in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) where I work on the semantics of gesture.
 
 My long term goal is modeling semantic complexity and its role in diachronic changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
 
@@ -22,12 +22,18 @@ Previous appointments
 * Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
 * PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
 
-Projects
+Primary Research Foci
 ======
 **Partitivity in English.**
 * Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Forthcoming).
-* Partitives in the Grammatical History Germanic Languages (Submitted).
+* Partitives in the Grammatical History Germanic Languages (R&R).
+* Testing dialects with simulations: The status of pseudo-partitives in US English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Submitted).
 
+**Dynamic binding in gesture--speech interaction.**
+* Experimental findings of dynamic binding  in gesture-speech interaction, with [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) and Magnus Poppe. ([OSF repository](https://osf.io/5974r/))
+
+Secondary and Previous Research Foci
+======
 **Countability in English.**
 * Diachronic analyses.
     * The development of the collectivization construction in English (R&R).
@@ -42,8 +48,8 @@ Projects
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Sorani Kurdish
-    * The count-mass distinction in Sorani Kurdish (R&R).
-    * Countability in Sorani Kurdish, with Delan Kheder ([Paper](http://www.ijoks.com/tr/download/article-file/3389302)).
+    * The count-mass distinction in Central Kurdish (Forthcoming).
+    * Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder ([Paper](http://www.ijoks.com/tr/download/article-file/3389302)).
 * Greek
     * The acquisition of object mass nouns (In prep).
     * Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).
@@ -67,8 +73,9 @@ Projects
 
 Publications
 ======
-* Erbach, Kurt and Remus Gergel. Forthcoming.  Direct pseudo-partitives in US English. *Linguistics Vanguard*
-* Erbach, Kurt and Delan Kheder. 2024.  Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
+* Erbach, Kurt. Forthcoming. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz.
+* Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*
+* Erbach, Kurt and Delan Kheder. 2024. Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
 * Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.com/), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. A comparative corpus study of "race" and "Rasse". *Applied Corpus Linguistics 3*(2023). 1-10. DOI: [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
 * Erbach, Kurt and [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). 2022. [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/). *Glossa: a journal of general linguistics* (7)1. 1-31. DOI: [https://doi.org/10.16995/glossa.5788](https://doi.org/10.16995/glossa.5788)
 * Erbach, Kurt and [Leda Berio](https://ledaberio.com/). 2022. [Countability shifts in the normative dimension](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf). in Gutzmann, Daniel & Sophie Repp, Eds. *[Proceedings of Sinn und Beduetung 26](https://ruhr-uni-bochum.sciebo.de/s/7mmqET55GSGUh46)*. Universität zu Köln.
