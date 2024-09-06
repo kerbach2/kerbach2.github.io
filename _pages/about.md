@@ -48,7 +48,7 @@ Secondary and Previous Research Foci
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Sorani Kurdish
-    * The count-mass distinction in Central Kurdish (Forthcoming).
+    * The count-mass distinction in Central Kurdish ([Paper](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)).
     * Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder ([Paper](http://www.ijoks.com/tr/download/article-file/3389302)).
 * Greek
     * The acquisition of object mass nouns (In prep).
@@ -73,7 +73,7 @@ Secondary and Previous Research Foci
 
 Publications
 ======
-* Erbach, Kurt. Forthcoming. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz.
+* Erbach, Kurt. Forthcoming. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz. [[Pre-final draft](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)]
 * Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*
 * Erbach, Kurt and Delan Kheder. 2024. Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
 * Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.com/), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. A comparative corpus study of "race" and "Rasse". *Applied Corpus Linguistics 3*(2023). 1-10. DOI: [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
