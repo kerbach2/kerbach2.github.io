@@ -1,8 +1,23 @@
-# main links links
-#main:
-#  - title: "Publications"
-#    url: /publications/
-#
+main links links
+main:
+  - title: "About"
+    url: https://kerbach2.github.io/index.html
+  
+  - title: "News"
+    url: https://kerbach2.github.io/index.html#news
+
+  - title: "Research"
+    url: https://kerbach2.github.io/index.html#primary-projects
+
+  - title: "Publications"
+    url: https://kerbach2.github.io/index.html#publications
+
+  - title: "Teaching"
+    url: https://kerbach2.github.io/index.html#teaching
+
+  - title: "Previous Appointments"
+    url: https://kerbach2.github.io/index.html#previous-appointments
+
 #  - title: "Talks"
 #    url: /talks/    
 #
