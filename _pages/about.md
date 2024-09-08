@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Kurt Erbach"
-excerpt: "Linguist"
+excerpt: "Linguist"  
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,16 +14,26 @@ My long term goal is modeling semantic complexity and its role in diachronic cha
 
 I am also committed to anti-discrimination language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/stabsstelle-buergeruniversitaet/foerderung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated anti-racist language use and language policy in Germany and the US. 
 
-Previous appointments
-======
-* Post-doc, under [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) in the [IDEAlISM project](https://dynamicalternatives.wordpress.com/).
-* Post-doc, under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik).
-* Post-doc, under [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in [English Linguistics at Julius-Maximilians-Universität of Würzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/). 
-* Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
-* PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
+## News
 
-Primary Research Foci
-======
+**Sept 6, 2024**.  Presented "Relative complexity in countability systems; A look at countability in Central Kurdish" at [Lectures on Iranian Linguistics in Arizona (online)](https://iranian-languages.arizona.edu/lila).
+
+***
+
+**Sept 5, 2024**. Abstract "Of *of* from *from*; Rethinking the partitive cycle" accepted for a poster presetation at [LSA 2025, in Philadelphia, PA, USA](https://web.cvent.com/event/40d9411e-b965-4659-b9c3-63046eeed3d4/summary).
+
+***
+
+**June 20, 2024**. Abstract "From number classifying to number marking: Change in English countability" accepted for a poster presetation at [Sinn und Bedeutung 29, in Noto, Itlay](https://sub29.unime.it/programma/).
+
+***
+
+**June 6, 2024**. Abstract "Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction" accepted for a poster presentation at [XPRAG.it 2024, in Venice, Italy](https://sites.google.com/view/xpragit2024/xprag-it-2024).
+
+***
+
+
+## Primary Projects
 **Partitivity in English.**
 * Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Forthcoming).
 * Partitives in the Grammatical History Germanic Languages (R&R).
@@ -32,8 +42,7 @@ Primary Research Foci
 **Dynamic binding in gesture--speech interaction.**
 * Experimental findings of dynamic binding  in gesture-speech interaction, with [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) and Magnus Poppe. ([OSF repository](https://osf.io/5974r/))
 
-Secondary and Previous Research Foci
-======
+## Secondary and Previous Projects
 **Countability in English.**
 * Diachronic analyses.
     * The development of the collectivization construction in English (R&R).
@@ -71,8 +80,7 @@ Secondary and Previous Research Foci
 * Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)).
 
 
-Publications
-======
+## Publications
 * Erbach, Kurt. Forthcoming. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz. [[Pre-final draft](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)]
 * Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*
 * Erbach, Kurt and Delan Kheder. 2024. Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
@@ -89,8 +97,7 @@ Publications
 * Erbach, Kurt, [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck. 2017. Object Mass Nouns in Japanese. In: Cremers, A., T. van Gessel, and F. Roelofsen (eds). [*Proceedings of the 21st Amsterdam Colloquium*](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf). 235-244.
 * Erbach, Kurt. 2014. [*Coordinate Systems in Gã*](https://scholarworks.umt.edu/etd/4289/). The University of Montana. MA Thesis.
 
-Teaching
-======
+## Teaching
 
 * Erbach, K. 2024. Topics in English semantics and pragmatics. Saarland University.
 * Erbach, K. 2023. Varieties of English. Saarland University. 
@@ -113,3 +120,10 @@ Teaching
 * Erbach, K. 2019. English Linguistics. Universty of Bonn.
 * Erbach, K. 2019. The Mass/Count Distinction, Applied Investigations. University of Bonn.
 * Erbach, K. 2017. Plurality. Heinrich-Heine-University, Dusseldorf.
+
+## Previous appointments
+* Post-doc, under [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) in the [IDEAlISM project](https://dynamicalternatives.wordpress.com/).
+* Post-doc, under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik).
+* Post-doc, under [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in [English Linguistics at Julius-Maximilians-Universität of Würzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/). 
+* Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
+* PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
