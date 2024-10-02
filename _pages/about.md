@@ -16,6 +16,14 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ## News
 
+**Sept 26, 2024**.  Presented "Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction" at [XPRAG.it 2024, in Venice, Italy](https://sites.google.com/view/xpragit2024/xprag-it-2024).
+
+***
+
+**Sept 17, 2024**.  Presented "From number classifying to number marking: Change in English countability" at [Sinn und Bedeutung 29, in Noto, Itlay](https://sub29.unime.it/programma/)..
+
+***
+
 **Sept 6, 2024**.  Presented "Relative complexity in countability systems; A look at countability in Central Kurdish" at [Lectures on Iranian Linguistics in Arizona (online)](https://iranian-languages.arizona.edu/lila).
 
 ***
@@ -24,13 +32,6 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ***
 
-**June 20, 2024**. Abstract "From number classifying to number marking: Change in English countability" accepted for a poster presetation at [Sinn und Bedeutung 29, in Noto, Itlay](https://sub29.unime.it/programma/).
-
-***
-
-**June 6, 2024**. Abstract "Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction" accepted for a poster presentation at [XPRAG.it 2024, in Venice, Italy](https://sites.google.com/view/xpragit2024/xprag-it-2024).
-
-***
 
 
 ## Primary Projects
