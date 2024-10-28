@@ -113,7 +113,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 </details>
 
 <details>
-<summary><b>The concept of race in (US-American) English and (German) German</b></summary>
+<summary><b>The concept of race in US English and Federal German</b></summary>
 <br>
 
 <b>Output</b>
