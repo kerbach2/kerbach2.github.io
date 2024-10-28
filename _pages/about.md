@@ -147,7 +147,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Teaching
 
-* Erbach, K. 2024. Topics in English semantics and pragmatics. Saarland University.
+* Erbach, K. 2024. The History and Development of the English Language. Saarland University.
+* Erbach, K. 2024. Topics in English Semantics and Pragmatics. Saarland University.
 * Erbach, K. 2023. Varieties of English. Saarland University. 
 * Erbach, K. 2022. Contrasting Grammars Across Languages. Saarland University.
 * Erbach, K. 2022. Language and Power. University of Wuerzburg.
