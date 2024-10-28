@@ -40,23 +40,25 @@ I am also committed to anti-discrimination language research, and am continuing 
 <br>
 
 Looking at the interaction of semantic and syntactic structures for expressing partitive and pseudo-partitive meaning in the history of English, this project motivates a new model of language change that captures these interactions to predict present day variation.
-
-**Output**
-* Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Forthcoming).
-* Partitives in the Grammatical History Germanic Languages (R&R).
-* Testing dialects with simulations: The status of pseudo-partitives in US English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Under Review).
-  
+<br>
+<br>
+<b>Output</b><br>
+ <ul>
+  <li>Direct pseudo-partitives in American English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Forthcoming)</li>
+  <li>Testing dialects with simulations: The status of pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Under review)</li>
+  <li>Partitives in the Grammatical History Germanic Languages (R&R)</li>
+</ul>   
 </details>
 
 <details>
 <summary><b>The semantics of gesture--speech interaction</b></summary>
 <br>
-
 Looking at multi-modal anaphora, such as verbal pronouns binding to discourse referents introduced by co-speech gestures, this project motivates a novel analyses for the semantics of dynamic binding  in gesture-speech interaction.
-
-**Output**
-* Experimental findings of dynamic binding  in gesture-speech interaction, with [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) and Magnus Poppe. ([OSF repository](https://osf.io/5974r/))
-  
+<br>
+<br>
+<b>Output</b><br>
+ <ul>
+   <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Under review; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
 </details>
 
 
@@ -67,16 +69,22 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <summary><b>Countability in English</b></summary>
 <br>
 
-**Output**
-* Diachronic analyses.
-    * The development of the collectivization construction in English (R&R).
-    * Towards a history of the English countability system ([Slides](https://www.google.com/url?q=https%3A%2F%2Fkerbach2.github.io%2Fpapers%2FErbach_2022_slides_Hist_Eng_countability_.pdf&sa=D&sntz=1&usg=AOvVaw1SgvVMJf5HSKYSlBdv8knb) from the 2022 [Workshop on Part-whole structures in natural language](https://sites.google.com/view/part-whole-workshop)).
-* Countability in present Day Englishes.
-    * Non-canonical countability shifts (R&R).
-    * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.com/) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).
-    * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.com/), ([Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf)). 
-    * Varieties of mass/count interpretation of hybrid nouns, with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) ([Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136)).
-  
+<b>Output</b>
+<ul>
+  <li>Diachronic analyses</li>
+    <ul>
+      <li>The development of the collectivization construction in English (R&R)</li>
+      <li>Number classifying to number marking: Change in English countability (In prep.)</li>
+    </ul>
+  <li>Countability in present Day Englishes</li>
+    <ul>
+      <li>Non-canonical countability shifts (Under review)</li>
+      <li>Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.com/) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).</li>
+      <li>Varieties of mass/count interpretation of hybrid nouns, with <a href="https://www.ucl.ac.uk/~ucjtudo/">Yasu Sudo</a> (<a href="https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136">Abstract</a>).</li>
+    </ul>
+</ul>
+<!-- Towards a history of the English countability system ([Slides](https://www.google.com/url?q=https%3A%2F%2Fkerbach2.github.io%2Fpapers%2FErbach_2022_slides_Hist_Eng_countability_.pdf&sa=D&sntz=1&usg=AOvVaw1SgvVMJf5HSKYSlBdv8knb) from the 2022 [Workshop on Part-whole structures in natural language](https://sites.google.com/view/part-whole-workshop)). -->
+<!-- Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.com/), ([Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf)). -->
 </details>
 
 
@@ -84,7 +92,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <summary><b>Countability across Languages</b></summary>
 <br>
 
-**Output**
+<b>Output</b>
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Sorani Kurdish
@@ -108,7 +116,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <summary><b>The concept of race in (US-American) English and (German) German</b></summary>
 <br>
 
-**Output**
+<b>Output</b>
 * How do Germans and US-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review) ([Repository](https://github.com/kerbach2/dasRwort)).
 * A comparative corpus study of "race" and "Rasse", with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html) ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub)). 
 
@@ -119,7 +127,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <summary><b>Homogeneity</b></summary>
 <br>
 
-**Output**
+<b>Output</b>
 * Putting Plural Definites into Context, with [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli), [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/), [Richard Breheny](https://profiles.ucl.ac.uk/9638), and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) (R&R)
 * Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates ([Paper](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)).
 * Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)). 
