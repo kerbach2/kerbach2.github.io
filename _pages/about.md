@@ -35,16 +35,39 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 
 ## Primary Projects
-**Partitivity in English.**
+<details>
+<summary><b>Partitivity in English</b></summary>
+<br>
+
+Looking at the interaction of semantic and syntactic structures for expressing partitive and pseudo-partitive meaning in the history of English, this project motivates a new model of language change that captures these interactions to predict present day variation.
+
+**Output**
 * Direct pseudo-partitives in American English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Forthcoming).
 * Partitives in the Grammatical History Germanic Languages (R&R).
-* Testing dialects with simulations: The status of pseudo-partitives in US English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Submitted).
+* Testing dialects with simulations: The status of pseudo-partitives in US English, with [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html) (Under Review).
+  
+</details>
 
-**Dynamic binding in gesture--speech interaction.**
+<details>
+<summary><b>The semantics of gesture--speech interaction</b></summary>
+<br>
+
+Looking at multi-modal anaphora, such as verbal pronouns binding to discourse referents introduced by co-speech gestures, this project motivates a novel analyses for the semantics of dynamic binding  in gesture-speech interaction.
+
+**Output**
 * Experimental findings of dynamic binding  in gesture-speech interaction, with [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) and Magnus Poppe. ([OSF repository](https://osf.io/5974r/))
+  
+</details>
+
+
+
 
 ## Secondary and Previous Projects
-**Countability in English.**
+<details>
+<summary><b>Countability in English</b></summary>
+<br>
+
+**Output**
 * Diachronic analyses.
     * The development of the collectivization construction in English (R&R).
     * Towards a history of the English countability system ([Slides](https://www.google.com/url?q=https%3A%2F%2Fkerbach2.github.io%2Fpapers%2FErbach_2022_slides_Hist_Eng_countability_.pdf&sa=D&sntz=1&usg=AOvVaw1SgvVMJf5HSKYSlBdv8knb) from the 2022 [Workshop on Part-whole structures in natural language](https://sites.google.com/view/part-whole-workshop)).
@@ -53,8 +76,15 @@ I am also committed to anti-discrimination language research, and am continuing 
     * Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.com/) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).
     * Counting and categorizing: The relationship between the mass/count distinction and thought, with [Leda Berio](https://ledaberio.com/), ([Slides](https://user.phil.hhu.de/~filip/Erbach.Berio.pdf)). 
     * Varieties of mass/count interpretation of hybrid nouns, with [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) ([Abstract](https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136)).
+  
+</details>
 
-**Countability across Languages.**   
+
+<details>
+<summary><b>Countability across Languages</b></summary>
+<br>
+
+**Output**
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Sorani Kurdish
@@ -71,19 +101,36 @@ I am also committed to anti-discrimination language research, and am continuing 
     * Object Mass Nouns as Arbiter for the Mass/Count Category, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://doi.org/10.1017/9781108937979.008)).
     * Object Mass Nouns in Japanese, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf)).
 * Predicting object mass nouns across languges ([Paper](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698)).
+ 
+</details>
 
-**The concept of race in (US-American) English and (German) German.**
+<details>
+<summary><b>The concept of race in (US-American) English and (German) German</b></summary>
+<br>
+
+**Output**
 * How do Germans and US-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review) ([Repository](https://github.com/kerbach2/dasRwort)).
 * A comparative corpus study of "race" and "Rasse", with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html) ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub)). 
 
-**Plural predication.**
+</details>
+
+
+<details>
+<summary><b>Homogeneity</b></summary>
+<br>
+
+**Output**
+* Putting Plural Definites into Context, with [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli), [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/), [Richard Breheny](https://profiles.ucl.ac.uk/9638), and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) (R&R)
 * Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates ([Paper](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)).
-* Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)).
+* Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)). 
+
+</details>
+
 
 
 ## Publications
-* Erbach, Kurt. Forthcoming. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz. [[Pre-final draft](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)]
 * Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*
+* Erbach, Kurt. 2024. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz. [[Pre-final draft](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)]
 * Erbach, Kurt and Delan Kheder. 2024. Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
 * Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.com/), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. A comparative corpus study of "race" and "Rasse". *Applied Corpus Linguistics 3*(2023). 1-10. DOI: [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
 * Erbach, Kurt and [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/). 2022. [Object mass nouns and subkind countability](https://www.glossa-journal.org/article/id/5788/). *Glossa: a journal of general linguistics* (7)1. 1-31. DOI: [https://doi.org/10.16995/glossa.5788](https://doi.org/10.16995/glossa.5788)
