@@ -16,6 +16,14 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ## News
 
+**Nov 4, 2024**.  Paper "Shifting interpretations: Count and mass in linguistic categorization" accepted to [Lexis – Journal in English Lexicology](https://journals.openedition.org/lexis/?lang=en).
+
+***
+
+**Nov 4, 2024**.  Abstract "Binding presuppositions to iconic gestures", with [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) accepted to [Dimensions of Iconicity in the Visual Modality, in Göttingen, Germany](https://www.uni-goettingen.de/de/dimensions+of+iconicity/688691.html).
+
+***
+
 **Sept 26, 2024**.  Presented "Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction" at [XPRAG.it 2024, in Venice, Italy](https://sites.google.com/view/xpragit2024/xprag-it-2024).
 
 ***
@@ -28,9 +36,6 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ***
 
-**Sept 5, 2024**. Abstract "Of *of* from *from*; Rethinking the partitive cycle" accepted for a poster presetation at [LSA 2025, in Philadelphia, PA, USA](https://web.cvent.com/event/40d9411e-b965-4659-b9c3-63046eeed3d4/summary).
-
-***
 
 
 
@@ -59,6 +64,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <b>Output</b><br>
  <ul>
    <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Under review; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
+ </ul>   
 </details>
 
 
