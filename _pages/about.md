@@ -190,3 +190,5 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 * Post-doc, under [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in [English Linguistics at Julius-Maximilians-Universität of Würzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/). 
 * Lecturer, under [Klaus P. Schneider](https://www.applied-linguistics.uni-bonn.de/en/people/emeritus/schneider), in [English Linguistics at Rheinische Friedrich-Wilhelms-Universität Bonn](https://www.applied-linguistics.uni-bonn.de/en). 
 * PhD Researcher, under [Hana Filip](https://user.phil.hhu.de/~filip/Publications.htm), in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/). 
+
+Subscribe to my news and random content on <a rel="me" href="https://lingo.lol/@kerbach2">Mastodon</a>.
