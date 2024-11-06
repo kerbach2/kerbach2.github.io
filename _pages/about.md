@@ -80,12 +80,12 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
   <li>Diachronic analyses</li>
     <ul>
       <li>The development of the collectivization construction in English (R&R)</li>
-      <li>Number classifying to number marking: Change in English countability (In prep.)</li>
+      <li>Number classifying to number marking: Change in English countability (Forthcoming)</li>
     </ul>
   <li>Countability in present Day Englishes</li>
     <ul>
-      <li>Non-canonical countability shifts (Under review)</li>
-      <li>Countability shifts in the normative dimension, with [Leda Berio](https://ledaberio.com/) ([Paper](https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf)).</li>
+      <li>Shifting interpretations: Count and mass in linguistic categorization (Forthcoming)</li>
+      <li>Countability shifts in the normative dimension, with <a href="https://ledaberio.com/">Leda Berio</a> <a href="https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf">[Paper]</a>.</li>
       <li>Varieties of mass/count interpretation of hybrid nouns, with <a href="https://www.ucl.ac.uk/~ucjtudo/">Yasu Sudo</a> (<a href="https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136">Abstract</a>).</li>
     </ul>
 </ul>
@@ -102,19 +102,19 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 * Romanian
     * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
 * Sorani Kurdish
-    * The count-mass distinction in Central Kurdish ([Paper](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)).
-    * Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder ([Paper](http://www.ijoks.com/tr/download/article-file/3389302)).
+    * The count-mass distinction in Central Kurdish (<a href="https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf">[Paper]</a>).
+    * Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder (<a href="http://www.ijoks.com/tr/download/article-file/3389302">[Paper]</a>).
 * Greek
     * The acquisition of object mass nouns (In prep).
     * Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).
-    * A measure based analysis of plural nouns in Greek ([Paper](https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf)).
+    * A measure based analysis of plural nouns in Greek (<a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf">[Paper]</a>).
 * Hungarian
-    * Bare nouns and the Hungarian mass/count distinction, with [Peter R. Sutton](http://peter-sutton.co.uk), and [Hana Filip](https://user.phil.hhu.de/~filip/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas)).
-    * Object mass nouns and subkind countability, with [Aviv Schoenfeld](https://avivschoenfeld.wordpress.com/) ([Paper](https://www.glossa-journal.org/article/id/5788/), [Repository](https://github.com/kerbach2/subkindcountability022022)).
+    * Bare nouns and the Hungarian mass/count distinction, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a> (<a href="https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas">[Paper]</a>).
+    * Object mass nouns and subkind countability, with <a href="https://avivschoenfeld.wordpress.com/">Aviv Schoenfeld</a> (<a href="https://www.glossa-journal.org/article/id/5788/">[Paper]</a>, <a href="https://github.com/kerbach2/subkindcountability022022">[Repository]</a>).
 * Japanese
-    * Object Mass Nouns as Arbiter for the Mass/Count Category, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://doi.org/10.1017/9781108937979.008)).
-    * Object Mass Nouns in Japanese, with [Peter R. Sutton](http://peter-sutton.co.uk), [Hana Filip](https://user.phil.hhu.de/~filip/), and Katrin Byrdeck ([Paper](https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf)).
-* Predicting object mass nouns across languges ([Paper](http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698)).
+    * Object Mass Nouns as Arbiter for the Mass/Count Category, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://doi.org/10.1017/9781108937979.008">[Paper]</a>).
+    * Object Mass Nouns in Japanese, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf">[Paper]</a>).
+* Predicting object mass nouns across languges (<a href="http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698">[Paper]</a>).
  
 </details>
 
@@ -123,8 +123,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <br>
 
 <b>Output</b>
-* How do Germans and US-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Leda Berio](https://ledaberio.com/), [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey),  (Paper under review) ([Repository](https://github.com/kerbach2/dasRwort)).
-* A comparative corpus study of "race" and "Rasse", with [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.github.io), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html) ([Paper](https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub)). 
+* How do Germans and US-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1>Daniel James</a>,  (Under review) <a href="https://github.com/kerbach2/dasRwort">[Repository]</a>).
+* A comparative corpus study of "race" and "Rasse", with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1>Daniel James</a>, <a href="https://user.phil.hhu.de/~seyffarth/index.html>Esther Seyffarth</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub">[Paper]</a>). 
 
 </details>
 
