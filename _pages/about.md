@@ -95,26 +95,45 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 
 <details>
+<summary><b>The semantics of gesture--speech interaction</b></summary>
+<br>
+Looking at multi-modal anaphora, such as verbal pronouns binding to discourse referents introduced by co-speech gestures, this project motivates a novel analyses for the semantics of dynamic binding  in gesture-speech interaction.
+<br>
+<br>
+<b>Output</b><br>
+ <ul>
+   <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Under review; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
+ </ul>   
+</details>
+
+<details>
 <summary><b>Countability across Languages</b></summary>
 <br>
 
-<b>Output</b>
-* Romanian
-    * Syntactic versus semantic countability categories, with Alyssa Löffler (Paper in prep).
-* Sorani Kurdish
-    * The count-mass distinction in Central Kurdish (<a href="https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf">[Paper]</a>).
-    * Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder (<a href="http://www.ijoks.com/tr/download/article-file/3389302">[Paper]</a>).
-* Greek
-    * The acquisition of object mass nouns (In prep).
-    * Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).
-    * A measure based analysis of plural nouns in Greek (<a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf">[Paper]</a>).
-* Hungarian
-    * Bare nouns and the Hungarian mass/count distinction, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a> (<a href="https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas">[Paper]</a>).
-    * Object mass nouns and subkind countability, with <a href="https://avivschoenfeld.wordpress.com/">Aviv Schoenfeld</a> (<a href="https://www.glossa-journal.org/article/id/5788/">[Paper]</a>, <a href="https://github.com/kerbach2/subkindcountability022022">[Repository]</a>).
-* Japanese
-    * Object Mass Nouns as Arbiter for the Mass/Count Category, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://doi.org/10.1017/9781108937979.008">[Paper]</a>).
-    * Object Mass Nouns in Japanese, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf">[Paper]</a>).
-* Predicting object mass nouns across languges (<a href="http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698">[Paper]</a>).
+<b>Output</b><br>
+ <ul>
+   <li>Sorani Kurdish</li>
+      <ul>
+          <li>The count-mass distinction in Central Kurdish (<a href="https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf">[Paper]</a>).</li>
+          <li>Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder (<a href="http://www.ijoks.com/tr/download/article-file/3389302">[Paper]</a>).</li>
+      </ul>
+  <li>Greek</li>
+     <ul>
+        <li>The acquisition of object mass noun</li>
+       <li>Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).</li>
+        <li>A measure based analysis of plural nouns in Greek (<a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf">[Paper]</a>).</li>
+       </ul>
+  <li>Hungarian</li>
+     <ul> 
+       <li>Bare nouns and the Hungarian mass/count distinction, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a> (<a href="https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas">[Paper]</a>).</li>
+        <li>Object mass nouns and subkind countability, with <a href="https://avivschoenfeld.wordpress.com/">Aviv Schoenfeld</a> (<a href="https://www.glossa-journal.org/article/id/5788/">[Paper]</a>, <a href="https://github.com/kerbach2/subkindcountability022022">[Repository]</a>).</li>
+     </ul>
+  <li>Japanese</li>
+     <ul>
+       <li>Object Mass Nouns as Arbiter for the Mass/Count Category, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://doi.org/10.1017/9781108937979.008">[Paper]</a>).</li>
+      <li>Object Mass Nouns in Japanese, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf">[Paper]</a>).</li>
+    </ul>
+  <li>Predicting object mass nouns across languges (<a href="http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698">[Paper]</a>).</li>
  
 </details>
 
@@ -123,20 +142,24 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <br>
 
 <b>Output</b>
-* How do Germans and US-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>,  (Under review) <a href="https://github.com/kerbach2/dasRwort">[Repository]</a>).
-* A comparative corpus study of "race" and "Rasse", with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>, <a href="https://user.phil.hhu.de/~seyffarth/index.html">Esther Seyffarth</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub">[Paper]</a>). 
-
+  <ul>
+    <li>How do Germans and US-Americans Conceive of Race? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Race Conceptions, with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>,  (Under review) <a href="https://github.com/kerbach2/dasRwort">[Repository]</a>).</li>
+    <li>A comparative corpus study of "race" and "Rasse", with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>, <a href="https://user.phil.hhu.de/~seyffarth/index.html">Esther Seyffarth</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub">[Paper]</a>).</li>
+  </ul>
 </details>
 
 
 <details>
-<summary><b>Homogeneity</b></summary>
+<summary><b>Plurality and Homogeneity</b></summary>
 <br>
 
 <b>Output</b>
-* Putting Plural Definites into Context, with [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli), [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/), [Richard Breheny](https://profiles.ucl.ac.uk/9638), and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) (R&R)
-* Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates ([Paper](http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf)).
-* Readings of Plurals and Common Ground, with [Leda Berio](https://ledaberio.com/) ([Paper](https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2)). 
+  <ul>
+    <li><a href="https://ling.auf.net/lingbuzz/007987">Putting Plural Definites into Context</a>, with <a href="https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli">Jacopo Romoli</a>, <a href="https://www.ucl.ac.uk/~ucjtudo/">Yasu Sudo</a>, <a href="https://profiles.ucl.ac.uk/9638">Richard Breheny</a>, and <a href="https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html">Clemens Mayr</a> (Under Review)</li>
+    <li><a href="https://drive.google.com/file/d/1VV5-P5HDyYr0FjkxG1dMAR8Wc0wGjvIX/view?usp=sharing">Putting summative predicates into context</a>, with <a href="https://scholar.google.com/citations?user=R9WZe8IAAAAJ">Stavroula Alexandropoulou</a>, <a href="https://profiles.ucl.ac.uk/9638">Richard Breheny</a>, <a href="https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html">Clemens Mayr</a>, <a href="https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli">Jacopo Romoli</a>, and <a href="https://www.ucl.ac.uk/~ucjtudo/">Yasu Sudo</a></li>
+    <li><a href="https://drive.google.com/file/d/17VvnuAaSq6w8hgvgWnc4odjWEFY4hunO/view?usp=sharing">Non-maximality effects in gestural plural predication</a>, with <a href="https://scholar.google.com/citations?user=R9WZe8IAAAAJ">Stavroula Alexandropoulou</a>, <a href="https://profiles.ucl.ac.uk/9638">Richard Breheny</a>, <a href="https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html">Clemens Mayr</a>, <a href="https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli">Jacopo Romoli</a>, and <a href="https://www.ucl.ac.uk/~ucjtudo/">Yasu Sudo</a></li>
+    <li>Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates (<a href="http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf">Paper</a>).</li>
+    <li>Readings of Plurals and Common Ground, with <a href="https://ledaberio.com/">Leda Berio</a> (<a href="https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2">Paper</a>).</li>
 
 </details>
 
