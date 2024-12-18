@@ -16,6 +16,18 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ## News
 
+**Dec 18, 2024**.  Collaborative work, "Non-maximality effects in gestural plural predication" and "Putting summative predicates into contextShifting interpretations", with Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, and Yasutada Sudo, presented at [the 24th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2024/Programme/).
+
+***
+
+**Dec 16, 2024**. Abstract "Binding pronouns to discourse referents introduced with pointing gestures" accepted for the RED 2025 Conference: Mismatches in Anaphoric Relations, on May 29-30th, 2025, in Graz.
+
+***
+
+**Dec 13, 2024**. Abstract "Testing historical developments via language contact" accepted to [Varieties in Contact: Phenomena – Methods – Theories](https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/), on June 4-6th, 2025, in Dortmund.
+
+***
+
 **Nov 4, 2024**.  Paper "Shifting interpretations: Count and mass in linguistic categorization" accepted to [Lexis – Journal in English Lexicology](https://journals.openedition.org/lexis/?lang=en).
 
 ***
@@ -24,17 +36,6 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ***
 
-**Sept 26, 2024**.  Presented "Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction" at [XPRAG.it 2024, in Venice, Italy](https://sites.google.com/view/xpragit2024/xprag-it-2024).
-
-***
-
-**Sept 17, 2024**.  Presented "From number classifying to number marking: Change in English countability" at [Sinn und Bedeutung 29, in Noto, Itlay](https://sub29.unime.it/programma/)..
-
-***
-
-**Sept 6, 2024**.  Presented "Relative complexity in countability systems; A look at countability in Central Kurdish" at [Lectures on Iranian Linguistics in Arizona (online)](https://iranian-languages.arizona.edu/lila).
-
-***
 
 
 
@@ -51,6 +52,7 @@ Looking at the interaction of semantic and syntactic structures for expressing p
  <ul>
   <li>Direct pseudo-partitives in American English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Forthcoming)</li>
   <li>Testing dialects with simulations: The status of pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Under review)</li>
+  <li>Testing the noun-to-measure development path. (Forthcoming).</li>
   <li>Partitives in the Grammatical History Germanic Languages (R&R)</li>
 </ul>   
 </details>
@@ -191,6 +193,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 ## Teaching
 
 * Erbach, K. 2024. The History and Development of the English Language. Saarland University.
+* Erbach, K. 2024. Partitivity in Grammars and Across Dialects. Saarland University.
 * Erbach, K. 2024. Topics in English Semantics and Pragmatics. Saarland University.
 * Erbach, K. 2023. Varieties of English. Saarland University. 
 * Erbach, K. 2022. Contrasting Grammars Across Languages. Saarland University.
