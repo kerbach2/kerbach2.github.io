@@ -134,6 +134,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
       <li>Object Mass Nouns in Japanese, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf">[Paper]</a>).</li>
     </ul>
   <li>Predicting object mass nouns across languges (<a href="http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698">[Paper]</a>).</li>
+  </ul>
  
 </details>
 
