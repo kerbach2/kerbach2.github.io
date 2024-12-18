@@ -160,13 +160,18 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
     <li><a href="https://drive.google.com/file/d/17VvnuAaSq6w8hgvgWnc4odjWEFY4hunO/view?usp=sharing">Non-maximality effects in gestural plural predication</a>, with <a href="https://scholar.google.com/citations?user=R9WZe8IAAAAJ">Stavroula Alexandropoulou</a>, <a href="https://profiles.ucl.ac.uk/9638">Richard Breheny</a>, <a href="https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html">Clemens Mayr</a>, <a href="https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli">Jacopo Romoli</a>, and <a href="https://www.ucl.ac.uk/~ucjtudo/">Yasu Sudo</a></li>
     <li>Fighting for a share of the covers: Accounting for inaccessible readings of plural predicates (<a href="http://esslli2018.folli.info/wp-content/uploads/Proceedings-of-the-ESSLLI-2018-Student-Session.pdf">Paper</a>).</li>
     <li>Readings of Plurals and Common Ground, with <a href="https://ledaberio.com/">Leda Berio</a> (<a href="https://link.springer.com/chapter/10.1007/978-3-662-59620-3_2">Paper</a>).</li>
+  </ul>
 
 </details>
 
 
 
 ## Publications
-* Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*
+(by publication date)
+* Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*.
+* Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*.
+* Alexandropoulou, Stavroula, Kurt Erbach, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. [Non-maximality effects in gestural plural predication](https://drive.google.com/file/d/17VvnuAaSq6w8hgvgWnc4odjWEFY4hunO/view). *The Proceedings of the 24rd Amsterdam Colloquium*. 
+* Erbach, Kurt, Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. [Putting summative predicates into context](https://drive.google.com/file/d/1VV5-P5HDyYr0FjkxG1dMAR8Wc0wGjvIX/view). *The Proceedings of the 24rd Amsterdam Colloquium*.
 * Erbach, Kurt. 2024. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz. [[Pre-final draft](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)]
 * Erbach, Kurt and Delan Kheder. 2024. Variation in Countability Properties and Noun Classes. *International Journal of Kurdish Studies 10*(1). 118-143. DOI: [https://doi.org/10.21600/ijoks.1356084](https://doi.org/10.21600/ijoks.1356084)
 * Erbach, Kurt, [Benedict Kenyah-Damptey](https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey), [Leda Berio](https://ledaberio.com/), [Daniel James](https://philpeople.org/profiles/daniel-james-1), [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth/index.html). 2023. A comparative corpus study of "race" and "Rasse". *Applied Corpus Linguistics 3*(2023). 1-10. DOI: [https://doi.org/10.1016/j.acorp.2023.100044](https://doi.org/10.1016/j.acorp.2023.100044)
