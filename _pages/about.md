@@ -16,7 +16,7 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ## News
 
-**Dec 18, 2024**.  Collaborative work, "Non-maximality effects in gestural plural predication" and "Putting summative predicates into contextShifting interpretations", with Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, and Yasutada Sudo, presented at [the 24th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2024/Programme/).
+**Dec 18, 2024**.  Collaborative work, "Non-maximality effects in gestural plural predication" and "Putting summative predicates into context", with Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, and Yasutada Sudo, presented at [the 24th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2024/Programme/).
 
 ***
 
