@@ -16,6 +16,10 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ## News
 
+**Jan 15, 2024**.  Grant proposal "Plural individuals in gesture semantics", awarded funding by [Societas Linguistica Europaea](https://societaslinguistica.eu/).
+
+***
+
 **Dec 18, 2024**.  Collaborative work, "Non-maximality effects in gestural plural predication" and "Putting summative predicates into context", with Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, and Yasutada Sudo, presented at [the 24th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2024/Programme/).
 
 ***
@@ -32,9 +36,7 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ***
 
-**Nov 4, 2024**.  Abstract "Binding presuppositions to iconic gestures", with [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) accepted to [Dimensions of Iconicity in the Visual Modality, in Göttingen, Germany](https://www.uni-goettingen.de/de/dimensions+of+iconicity/688691.html).
 
-***
 
 
 
@@ -52,7 +54,8 @@ Looking at the interaction of semantic and syntactic structures for expressing p
  <ul>
   <li>Direct pseudo-partitives in American English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Forthcoming)</li>
   <li>Testing dialects with simulations: The status of pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Under review)</li>
-  <li>Testing the noun-to-measure development path. (Forthcoming).</li>
+  <li>Testing the noun-to-measure development path. (Forthcoming in Proceedings of ExLing 2024 Paris.)</li>
+  <li>Testing historical developments via language contact. (Talk at <a href="https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/">Varietätenkontakt: Phänomene - Methoden - Theorien</a>)</li>
   <li>Partitives in the Grammatical History Germanic Languages (R&R)</li>
 </ul>   
 </details>
@@ -66,6 +69,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <b>Output</b><br>
  <ul>
    <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Under review; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
+   <li>Binding presuppositions to iconic gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://www.uni-goettingen.de/de/dimensions+of+iconicity/688691.html">Dimensions of Iconicity in the Visual Modality</a>)</li>
+   <li>Binding pronouns to discourse referents introduced with pointing gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://red.uni-koeln.de/red-2025-mismatches-in-anaphoric-relations">Mismatches in anaphoric relations (RED 25)</a>)</li>
  </ul>   
 </details>
 
