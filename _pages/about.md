@@ -102,18 +102,6 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 
 <details>
-<summary><b>The semantics of gesture--speech interaction</b></summary>
-<br>
-Looking at multi-modal anaphora, such as verbal pronouns binding to discourse referents introduced by co-speech gestures, this project motivates a novel analyses for the semantics of dynamic binding  in gesture-speech interaction.
-<br>
-<br>
-<b>Output</b><br>
- <ul>
-   <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Under review; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
- </ul>   
-</details>
-
-<details>
 <summary><b>Countability across Languages</b></summary>
 <br>
 
