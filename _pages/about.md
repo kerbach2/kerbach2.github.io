@@ -16,15 +16,15 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ## News
 
+**Jan 27, 2024**. Paper, [Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction](https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607), with Magnus Poppe, and Cornelia Ebert, published in [Proceedings of ELM 3](https://journals.linguisticsociety.org/proceedings/index.php/ELM/issue/view/194).
+
+***
+
 **Jan 15, 2024**.  Grant proposal "Plural individuals in gesture semantics", awarded funding by [Societas Linguistica Europaea](https://societaslinguistica.eu/).
 
 ***
 
 **Dec 18, 2024**.  Collaborative work, "Non-maximality effects in gestural plural predication" and "Putting summative predicates into context", with Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, and Yasutada Sudo, presented at [the 24th Amsterdam Colloquium](https://events.illc.uva.nl/AC/AC2024/Programme/).
-
-***
-
-**Dec 16, 2024**. Abstract "Binding pronouns to discourse referents introduced with pointing gestures" accepted for the RED 2025 Conference: Mismatches in Anaphoric Relations, on May 29-30th, 2025, in Graz.
 
 ***
 
@@ -68,7 +68,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <br>
 <b>Output</b><br>
  <ul>
-   <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Under review; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
+   <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (<a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607">Paper</a>; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
    <li>Binding presuppositions to iconic gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://www.uni-goettingen.de/de/dimensions+of+iconicity/688691.html">Dimensions of Iconicity in the Visual Modality</a>)</li>
    <li>Binding pronouns to discourse referents introduced with pointing gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://red.uni-koeln.de/red-2025-mismatches-in-anaphoric-relations">Mismatches in anaphoric relations (RED 25)</a>)</li>
  </ul>   
@@ -166,6 +166,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 (by publication date)
 * Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*.
 * Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*.
+* Erbach, Kurt, Magnus Poppe, and Cornelia Ebert. 2025. [Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction](https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607). *Proceedings of ELM 3*.
 * Alexandropoulou, Stavroula, Kurt Erbach, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. [Non-maximality effects in gestural plural predication](https://drive.google.com/file/d/17VvnuAaSq6w8hgvgWnc4odjWEFY4hunO/view). *The Proceedings of the 24rd Amsterdam Colloquium*. 
 * Erbach, Kurt, Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. [Putting summative predicates into context](https://drive.google.com/file/d/1VV5-P5HDyYr0FjkxG1dMAR8Wc0wGjvIX/view). *The Proceedings of the 24rd Amsterdam Colloquium*.
 * Erbach, Kurt. 2024. The count--mass distinction in Central Kurdish. In Songül Gündoğdu, Ergin Öpengin, Agnes Grond, and Masoud Mohammadirad (eds.), Proceedings of the International Conference on Kurdish Linguistics 5. University of Graz. [[Pre-final draft](https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf)]
