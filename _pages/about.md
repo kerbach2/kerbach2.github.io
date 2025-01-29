@@ -69,6 +69,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <b>Output</b><br>
  <ul>
    <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (<a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607">Paper</a>; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
+   <li>Non-maximality effects in gestural plural predication, with Stavroula Alexandropoulou (first author), Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. (<a href="https://drive.google.com/file/d/17VvnuAaSq6w8hgvgWnc4odjWEFY4hunO/view">Paper</a>)
+   </li>
    <li>Binding presuppositions to iconic gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://www.uni-goettingen.de/de/dimensions+of+iconicity/688691.html">Dimensions of Iconicity in the Visual Modality</a>)</li>
    <li>Binding pronouns to discourse referents introduced with pointing gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://red.uni-koeln.de/red-2025-mismatches-in-anaphoric-relations">Mismatches in anaphoric relations (RED 25)</a>)</li>
  </ul>   
