@@ -16,7 +16,11 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ## News
 
-**Jan 27, 2024**. Paper, [Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction](https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607), with Magnus Poppe, and Cornelia Ebert, published in [Proceedings of ELM 3](https://journals.linguisticsociety.org/proceedings/index.php/ELM/issue/view/194).
+**Feb 4, 2025**. Paper [Direct pseudo-partitives in US English](https://doi.org/10.1515/lingvan-2023-0098) with Remus Gergel, published in Linguistics Vanguard.
+
+***
+
+**Jan 27, 2025**. Paper, [Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction](https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607), with Magnus Poppe, and Cornelia Ebert, published in [Proceedings of ELM 3](https://journals.linguisticsociety.org/proceedings/index.php/ELM/issue/view/194).
 
 ***
 
@@ -32,9 +36,7 @@ I am also committed to anti-discrimination language research, and am continuing 
 
 ***
 
-**Nov 4, 2024**.  Paper "Shifting interpretations: Count and mass in linguistic categorization" accepted to [Lexis – Journal in English Lexicology](https://journals.openedition.org/lexis/?lang=en).
 
-***
 
 
 
@@ -52,7 +54,7 @@ Looking at the interaction of semantic and syntactic structures for expressing p
 <br>
 <b>Output</b><br>
  <ul>
-  <li>Direct pseudo-partitives in American English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Forthcoming)</li>
+  <li>Direct pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (<a href="https://doi.org/10.1515/lingvan-2023-0098">Paper</a>)</li>
   <li>Testing dialects with simulations: The status of pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Under review)</li>
   <li>Testing the noun-to-measure development path. (Forthcoming in Proceedings of ExLing 2024 Paris.)</li>
   <li>Testing historical developments via language contact. (Talk at <a href="https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/">Varietätenkontakt: Phänomene - Methoden - Theorien</a>)</li>
@@ -89,7 +91,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
   <li>Diachronic analyses</li>
     <ul>
       <li>The development of the collectivization construction in English (R&R)</li>
-      <li>Number classifying to number marking: Change in English countability (Forthcoming)</li>
+      <li>Number classifying to number marking: Change in English countability (Forthcoming in <a href="https://journals.openedition.org/lexis/?lang=en">Lexis – Journal in English Lexicology</a>)</li>
     </ul>
   <li>Countability in present Day Englishes</li>
     <ul>
@@ -167,7 +169,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 ## Publications
 (by publication date)
 * Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*.
-* Erbach, Kurt and Remus Gergel. Forthcoming. Direct pseudo-partitives in US English. *Linguistics Vanguard*.
+* Erbach, Kurt and Remus Gergel. 2025. [Direct pseudo-partitives in US English](https://doi.org/10.1515/lingvan-2023-0098). *Linguistics Vanguard*.
 * Erbach, Kurt, Magnus Poppe, and Cornelia Ebert. 2025. [Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction](https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607). *Proceedings of ELM 3*.
 * Alexandropoulou, Stavroula, Kurt Erbach, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. [Non-maximality effects in gestural plural predication](https://drive.google.com/file/d/17VvnuAaSq6w8hgvgWnc4odjWEFY4hunO/view). *The Proceedings of the 24rd Amsterdam Colloquium*. 
 * Erbach, Kurt, Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. [Putting summative predicates into context](https://drive.google.com/file/d/1VV5-P5HDyYr0FjkxG1dMAR8Wc0wGjvIX/view). *The Proceedings of the 24rd Amsterdam Colloquium*.
