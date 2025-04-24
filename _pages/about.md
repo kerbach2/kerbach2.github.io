@@ -16,6 +16,13 @@ I am also committed to humanist language research, and am continuing research th
 
 ## News
 
+**June 6, 2025**. Talk "Testing historical developments via language contact" at [Varieties in Contact: Phenomena – Methods – Theories](https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/), at Universität Dortmund.
+
+***
+
+**May 29, 2025**. Talk "Binding pronouns to discourse referents introduced with pointing gestures" at [Referential Expressions in Discourse (RED) 2025](https://sfb-redundancy-deficiency.uni-graz.at/de/konferenzen/mismatches-in-anaphoric-relations/), at Universität Graz.
+
+***
 
 **Apr 2, 2025**. Invited talk "Are nouns biased, or are we? Data and theories, counting and measuring, Old and Present Day English", at Charles University, Prague.
 
@@ -33,9 +40,6 @@ I am also committed to humanist language research, and am continuing research th
 
 ***
 
-**Dec 13, 2024**. Abstract "Testing historical developments via language contact" accepted to [Varieties in Contact: Phenomena – Methods – Theories](https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/), on June 4-6th, 2025, in Dortmund.
-
-***
 
 
 
@@ -192,6 +196,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Teaching
 
+* Erbach, K. 2025. Introduction to Syntax. Saarland University.
+* Erbach, K. and K. Erbach 2025. Typology in Linguistics. Saarland University.
 * Erbach, K. 2024. The History and Development of the English Language. Saarland University.
 * Erbach, K. 2024. Partitivity in Grammars and Across Dialects. Saarland University.
 * Erbach, K. 2024. Topics in English Semantics and Pragmatics. Saarland University.
