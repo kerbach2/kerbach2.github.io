@@ -60,8 +60,8 @@ Looking at the interaction of semantic and syntactic structures for expressing p
 <b>Output</b><br>
  <ul>
   <li>Direct pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (<a href="https://doi.org/10.1515/lingvan-2023-0098">Paper</a>)</li>
-  <li>Testing dialects with simulations: The status of pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Forthcoming in <a href="https://journals.phil.muni.cz/linguistica-brunensia">Linguistica Brunesia</a>)</li>
-  <li>Testing the noun-to-measure development path. (Forthcoming in Proceedings of ExLing 2024 Paris.)</li>
+   <li>Of *of* from 'from': Rethinking the partitive cycle. (<a href="https://doi.org/10.3765/plsa.v10i1.5883">Paper</a>)</li>
+   <li>Testing dialects with simulations: The status of pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Forthcoming in <a href="https://journals.phil.muni.cz/linguistica-brunensia">Linguistica Brunesia</a>)</li>
   <li>Testing historical developments via language contact. (Talk at <a href="https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/">Varietätenkontakt: Phänomene - Methoden - Theorien</a>)</li>
   <li>Partitives in the Grammatical History Germanic Languages (R&R)</li>
 </ul>   
@@ -175,6 +175,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 (by publication date)
 * Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*.
 * Erbach, Kurt and Remus Gergel. Forthcoming. Testing dialects with simulations: the status of pseudo-partitives in US English. [*Linguistica Brunensia*](https://journals.phil.muni.cz/linguistica-brunensia).
+* Erbach, Kurt. 2025. Of *of* from 'from': Rethinking the partitive cycle. *Proceedings of the Linguistic Society of America* 10 (1): 5883. DOI: [10.3765/plsa.v10i1.5883](https://doi.org/10.3765/plsa.v10i1.5883)
 * Erbach, Kurt and Remus Gergel. 2025. Direct pseudo-partitives in US English. *Linguistics Vanguard*. DOI: [10.1515/lingvan-2023-0098](https://doi.org/10.1515/lingvan-2023-0098)
 * Erbach, Kurt, Magnus Poppe, and Cornelia Ebert. 2025. Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction. *Proceedings of ELM 3*. DOI: [10.3765/elm.3.5830](https://doi.org/10.3765/elm.3.5830)
 * Alexandropoulou, Stavroula, Kurt Erbach, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. Non-maximality effects in gestural plural predication. *The Proceedings of the 24rd Amsterdam Colloquium*. Link: [https://events.illc.uva.nl/AC/AC2024/Proceedings/](https://events.illc.uva.nl/AC/AC2024/Proceedings/)
