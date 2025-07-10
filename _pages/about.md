@@ -32,13 +32,6 @@ I am also committed to humanist language research, and am continuing research th
 
 ***
 
-**Jan 27, 2025**. Paper, [Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction](https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607), with Magnus Poppe, and Cornelia Ebert, published in [Proceedings of ELM 3](https://journals.linguisticsociety.org/proceedings/index.php/ELM/issue/view/194).
-
-***
-
-**Jan 15, 2024**.  Grant proposal "Plural individuals in gesture semantics", awarded funding by [Societas Linguistica Europaea](https://societaslinguistica.eu/).
-
-***
 
 
 
@@ -51,7 +44,7 @@ I am also committed to humanist language research, and am continuing research th
 
 ## Primary Projects
 <details>
-<summary><b>Partitivity in English</b></summary>
+<summary><b>Partitivity in English (Habilitation)</b></summary>
 <br>
 
 Looking at the interaction of semantic and syntactic structures for expressing partitive and pseudo-partitive meaning in the history of English, this project motivates a new model of language change that captures these interactions to predict present day variation.
@@ -68,6 +61,22 @@ Looking at the interaction of semantic and syntactic structures for expressing p
 </details>
 
 <details>
+<summary><b>Plural individuals in gesture semantics (SLE Early career researcher grant)</b></summary>
+<br>
+The target of this research project is number within gesture semantics, namely whether the discourse referent introduced by a singular palm-up gesture—i.e. showing the palm of one hand as if presenting something—is interpreted as a singular or plural when occurring as a co-speech gesture with the utterance of a plural individual like "Sam and Diane"
+<br>
+<br>
+<b>Output</b><br>
+ <ul>
+   <li>Singular gestures and plural individuals. (Talk at the Semantics Colloquium of Goethe-University, Frankfurt</li>
+ </ul>   
+</details>
+
+
+
+
+## Secondary and Previous Projects
+<details>
 <summary><b>The semantics of gesture--speech interaction</b></summary>
 <br>
 Looking at multi-modal anaphora, such as verbal pronouns binding to discourse referents introduced by co-speech gestures, this project motivates a novel analyses for the semantics of dynamic binding  in gesture-speech interaction.
@@ -83,10 +92,6 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
  </ul>   
 </details>
 
-
-
-
-## Secondary and Previous Projects
 <details>
 <summary><b>Countability in English</b></summary>
 <br>
