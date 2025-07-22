@@ -16,6 +16,10 @@ I am also committed to humanist language research, and am continuing research th
 
 ## News
 
+**July 21, 2025**. Paper [Testing dialects with simulations: the status of pseudo-partitives in US English](https://doi.org/10.5817/LB2025-38532) with Remus Gergel, published in Linguistica Brunensia.
+
+***
+
 **June 6, 2025**. Talk "Testing historical developments via language contact" at [Varieties in Contact: Phenomena – Methods – Theories](https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/), at Universität Dortmund.
 
 ***
@@ -28,9 +32,6 @@ I am also committed to humanist language research, and am continuing research th
 
 ***
 
-**Feb 4, 2025**. Paper [Direct pseudo-partitives in US English](https://doi.org/10.1515/lingvan-2023-0098) with Remus Gergel, published in Linguistics Vanguard.
-
-***
 
 
 
@@ -52,11 +53,27 @@ Looking at the interaction of semantic and syntactic structures for expressing p
 <br>
 <b>Output</b><br>
  <ul>
-  <li>Direct pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (<a href="https://doi.org/10.1515/lingvan-2023-0098">Paper</a>)</li>
-   <li>Of *of* from 'from': Rethinking the partitive cycle. (<a href="https://doi.org/10.3765/plsa.v10i1.5883">Paper</a>)</li>
-   <li>Testing dialects with simulations: The status of pseudo-partitives in US English, with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (Forthcoming in <a href="https://journals.phil.muni.cz/linguistica-brunensia">Linguistica Brunesia</a>)</li>
-  <li>Testing historical developments via language contact. (Talk at <a href="https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/">Varietätenkontakt: Phänomene - Methoden - Theorien</a>)</li>
-  <li>Partitives in the Grammatical History Germanic Languages (R&R)</li>
+  <li>"Direct pseudo-partitives in US English", with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel.</a> (<a href="https://doi.org/10.1515/lingvan-2023-0098">Paper</a>)</li>
+   <ul>
+     <li><b>In a sentence</b>: A corpus study shows regular use of direct pseudo-partitives with measures in US English and we aruge for distinct syntactic strucures for measure and container readings of pseudo-partitives.</li>
+   </ul>
+   <li>"Of *of* from 'from': Rethinking the partitive cycle".(<a href="https://doi.org/10.3765/plsa.v10i1.5883">Paper</a>)</li>
+   <ul>
+     <li><b>In a sentence</b>: I argue that pseudo-partitives are the result of reanalysis of "of" rather than grammaticalizatoin.</li>
+   </ul>
+   <li>"Testing dialects with simulations: The status of pseudo-partitives in US English", with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (<a href="https://doi.org/10.5817/LB2025-38532">Paper</a>)</li>
+   <ul>
+     <li><b>In a sentence</b>: Experiments corroborate corpus results showing that speakers of US English prefer measure readings of direct pseudo-partitives than container readings.</li>
+   </ul>
+  <li>"Testing historical developments via language contact". (Talk at <a href="https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/">Varietätenkontakt: Phänomene - Methoden - Theorien</a>)</li>
+   <ul>
+     <li><b>In a sentence</b>: Across varieties of English, direct pseudo-partitives are a stable phenomonen suggesting that this is due to language internal change rather than language or dialectal contact.</li>
+   </ul>
+  <li>:Partitives in the Grammatical History Germanic Languages" (R&R)</li>
+   <ul>
+     <li><b>In a sentence</b>: Across Germanic languages there has been a general shift from genitive case being used for both partitive and pseudo-paritive structures to the disambiguation of these structures in various ways.</li>
+   </ul>
+
 </ul>   
 </details>
 
@@ -179,7 +196,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 ## Publications
 (by publication date)
 * Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*.
-* Erbach, Kurt and Remus Gergel. Forthcoming. Testing dialects with simulations: the status of pseudo-partitives in US English. [*Linguistica Brunensia*](https://journals.phil.muni.cz/linguistica-brunensia).
+* Erbach, Kurt and Remus Gergel. (2025). Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
 * Erbach, Kurt. 2025. Of *of* from 'from': Rethinking the partitive cycle. *Proceedings of the Linguistic Society of America* 10 (1): 5883. DOI: [10.3765/plsa.v10i1.5883](https://doi.org/10.3765/plsa.v10i1.5883)
 * Erbach, Kurt and Remus Gergel. 2025. Direct pseudo-partitives in US English. *Linguistics Vanguard*. DOI: [10.1515/lingvan-2023-0098](https://doi.org/10.1515/lingvan-2023-0098)
 * Erbach, Kurt, Magnus Poppe, and Cornelia Ebert. 2025. Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction. *Proceedings of ELM 3*. DOI: [10.3765/elm.3.5830](https://doi.org/10.3765/elm.3.5830)
