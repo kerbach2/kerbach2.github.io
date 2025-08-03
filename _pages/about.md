@@ -57,7 +57,7 @@ Looking at the interaction of semantic and syntactic structures for expressing p
    <ul>
      <li><b>In a sentence</b>: A corpus study shows regular use of direct pseudo-partitives with measures in US English and we aruge for distinct syntactic strucures for measure and container readings of pseudo-partitives.</li>
    </ul>
-   <li>"Of *of* from 'from': Rethinking the partitive cycle".(<a href="https://doi.org/10.3765/plsa.v10i1.5883">Paper</a>)</li>
+   <li>"Of <i>of</i> from 'from': Rethinking the partitive cycle".(<a href="https://doi.org/10.3765/plsa.v10i1.5883">Paper</a>)</li>
    <ul>
      <li><b>In a sentence</b>: I argue that pseudo-partitives are the result of reanalysis of "of" rather than grammaticalizatoin.</li>
    </ul>
@@ -69,7 +69,7 @@ Looking at the interaction of semantic and syntactic structures for expressing p
    <ul>
      <li><b>In a sentence</b>: Across varieties of English, direct pseudo-partitives are a stable phenomonen suggesting that this is due to language internal change rather than language or dialectal contact.</li>
    </ul>
-  <li>:Partitives in the Grammatical History Germanic Languages" (R&R)</li>
+  <li>"Partitives in the Grammatical History Germanic Languages" (R&R)</li>
    <ul>
      <li><b>In a sentence</b>: Across Germanic languages there has been a general shift from genitive case being used for both partitive and pseudo-paritive structures to the disambiguation of these structures in various ways.</li>
    </ul>
