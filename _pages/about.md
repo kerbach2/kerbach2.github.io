@@ -200,7 +200,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Publications
 (by publication date)
-* Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. URL: [http://journals.openedition.org/lexis/8840](http://journals.openedition.org/lexis/8840)
+* Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
 * Erbach, Kurt and Remus Gergel. (2025). Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
 * Erbach, Kurt. 2025. Of *of* from 'from': Rethinking the partitive cycle. *Proceedings of the Linguistic Society of America* 10 (1): 5883. DOI: [10.3765/plsa.v10i1.5883](https://doi.org/10.3765/plsa.v10i1.5883)
 * Erbach, Kurt and Remus Gergel. 2025. Direct pseudo-partitives in US English. *Linguistics Vanguard*. DOI: [10.1515/lingvan-2023-0098](https://doi.org/10.1515/lingvan-2023-0098)
