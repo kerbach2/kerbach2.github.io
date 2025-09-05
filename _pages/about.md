@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and lecturer working on nominal semantics, currently focusing on changes in expressions of partitivity in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) where I work on the semantics of gesture.
+I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) where I work on the semantics of gesture.
 
-My linguistics research sits at the intersection of mathematical and social issues, namely how we individuate (or fail to individuate) objects, people, social groups and categories. My long term goal is modeling semantic complexity and its role in diachronic changes. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction in other languages. 
+My linguistics research sits at the intersection of mathematical and social issues, namely how we individuate (or fail to individuate) objects, people, social groups and categories. My long term goal is modeling semantic complexity and its role in diachronic changes in this domain. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction and plurality. 
 
 I am also committed to humanist language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/stabsstelle-buergeruniversitaet/foerderung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated language use and policy in Germany and the US. 
 
 ## News
 
+
+**Sept 2-4, 2025**. Poster "[Gestural pronouns: Binding predefined loci in gesture space to discourse referents](https://espp2025.ifispan.edu.pl/programme/posters/post-0000ff.gestural-pronouns-binding-predefined-loci-in-gestu)", at the 2025 European Society for Philosophy and Psychology (ESPP) Conference hosted by the Institute of Philosophy and Sociology, Polish Academy of Sciences, in Warsaw, Poland.
+
+***
 
 **Aug 25, 2025** Paper, [Shifting interpretations: Count and mass in linguistic categorization](http://journals.openedition.org/lexis/8840), published in Lexis.
 
@@ -32,18 +36,6 @@ I am also committed to humanist language research, and am continuing research th
 **May 29, 2025**. Talk "Binding pronouns to discourse referents introduced with pointing gestures" at [Referential Expressions in Discourse (RED) 2025](https://sfb-redundancy-deficiency.uni-graz.at/de/konferenzen/mismatches-in-anaphoric-relations/), at Universität Graz.
 
 ***
-
-**Apr 2, 2025**. Invited talk "Are nouns biased, or are we? Data and theories, counting and measuring, Old and Present Day English", at Charles University, Prague.
-
-***
-
-
-
-
-
-
-
-
 
 
 
@@ -111,6 +103,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
    </li>
    <li>Binding presuppositions to iconic gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://www.uni-goettingen.de/de/dimensions+of+iconicity/688691.html">Dimensions of Iconicity in the Visual Modality</a>)</li>
    <li>Binding pronouns to discourse referents introduced with pointing gestures, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (Talk at <a href="https://red.uni-koeln.de/red-2025-mismatches-in-anaphoric-relations">Mismatches in anaphoric relations (RED 25)</a>)</li>
+   <li>Gestural pronouns: Binding predefined loci in gesture space to discourse referents, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a>. (Poster at <a href="https://www.europeanspp.org/">the 2025 European Society for Philosophy and Psychology (ESPP) Conference</a>)</li>
  </ul>   
 </details>
 
@@ -123,12 +116,12 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
   <li>Diachronic analyses</li>
     <ul>
       <li>The development of the collectivization construction in English (R&R)</li>
-      <li>Number classifying to number marking: Change in English countability (<a href="https://journals.openedition.org/lexis/?lang=en">[Paper]</a>)</li>
+      <li>Number classifying to number marking: Change in English countability (Forthcoming in <a href="[https://journals.openedition.org/lexis/?lang=en](https://ojs.ub.uni-konstanz.de/sub/index.php/sub)">Proceedings of Sinn und Bedeutung</a> 29)</li>
     </ul>
   <li>Countability in present Day Englishes</li>
     <ul>
-      <li>Shifting interpretations: Count and mass in linguistic categorization (Forthcoming)</li>
-      <li>Countability shifts in the normative dimension, with <a href="https://ledaberio.com/">Leda Berio</a> <a href="https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf">[Paper]</a>.</li>
+      <li>Shifting interpretations: Count and mass in linguistic categorization <a href="https://doi.org/10.5817/LB2025-38532">[Paper]</a></li>
+      <li>Countability shifts in the normative dimension, with <a href="https://ledaberio.com/">Leda Berio</a> (<a href="https://kerbach2.github.io/erbach_berio_2021_countability_in_the_normative_dimension.pdf">Paper</a>).</li>
       <li>Varieties of mass/count interpretation of hybrid nouns, with <a href="https://www.ucl.ac.uk/~ucjtudo/">Yasu Sudo</a> (<a href="https://dgfs2023.uni-koeln.de/sites/dgfs2023/Booklet/DGfS2023_Cologne_ConferenceBooklet.pdf#page=136">Abstract</a>).</li>
     </ul>
 </ul>
@@ -146,25 +139,25 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
    <li>Sorani Kurdish</li>
       <ul>
           <li>The count-mass distinction in Central Kurdish (<a href="https://kerbach2.github.io/papers/Erbach_forthcoming_the_count-mass_distinction_in_Central_Kurdish.pdf">[Paper]</a>).</li>
-          <li>Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder (<a href="http://www.ijoks.com/tr/download/article-file/3389302">[Paper]</a>).</li>
+          <li>Variation in Countability Properties and Noun Classes; Countability in Central Kurdish, with Delan Kheder (<a href="http://www.ijoks.com/tr/download/article-file/3389302">Paper</a>).</li>
       </ul>
   <li>Greek</li>
      <ul>
         <li>The acquisition of object mass noun</li>
        <li>Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).</li>
-        <li>A measure based analysis of plural nouns in Greek (<a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf">[Paper]</a>).</li>
+        <li>A measure based analysis of plural nouns in Greek (<a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf">Paper</a>).</li>
        </ul>
   <li>Hungarian</li>
      <ul> 
-       <li>Bare nouns and the Hungarian mass/count distinction, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a> (<a href="https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas">[Paper]</a>).</li>
-        <li>Object mass nouns and subkind countability, with <a href="https://avivschoenfeld.wordpress.com/">Aviv Schoenfeld</a> (<a href="https://www.glossa-journal.org/article/id/5788/">[Paper]</a>, <a href="https://github.com/kerbach2/subkindcountability022022">[Repository]</a>).</li>
+       <li>Bare nouns and the Hungarian mass/count distinction, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a> (<a href="https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5#citeas">Paper</a>).</li>
+        <li>Object mass nouns and subkind countability, with <a href="https://avivschoenfeld.wordpress.com/">Aviv Schoenfeld</a> (<a href="https://www.glossa-journal.org/article/id/5788/">Paper</a>, <a href="https://github.com/kerbach2/subkindcountability022022">Repository</a>).</li>
      </ul>
   <li>Japanese</li>
      <ul>
-       <li>Object Mass Nouns as Arbiter for the Mass/Count Category, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://doi.org/10.1017/9781108937979.008">[Paper]</a>).</li>
-      <li>Object Mass Nouns in Japanese, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf">[Paper]</a>).</li>
+       <li>Object Mass Nouns as Arbiter for the Mass/Count Category, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://doi.org/10.1017/9781108937979.008">Paper</a>).</li>
+      <li>Object Mass Nouns in Japanese, with <a href="http://peter-sutton.co.uk">Peter R. Sutton</a>, <a href="https://user.phil.hhu.de/~filip/">Hana Filip</a>, and Katrin Byrdeck (<a href="https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf">Paper</a>).</li>
     </ul>
-  <li>Predicting object mass nouns across languges (<a href="http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698">[Paper]</a>).</li>
+  <li>Predicting object mass nouns across languges (<a href="http://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4698">Paper</a>).</li>
   </ul>
  
 </details>
@@ -175,8 +168,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 <b>Output</b>
   <ul>
-    <li>How do Germans and US-Americans Conceive of Raⅽe? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Raⅽe Conceptions, with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>,  (Under review) <a href="https://github.com/kerbach2/dasRwort">[Repository]</a>).</li>
-    <li>A comparative corpus study of "raⅽe" and "Rasse", with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>, <a href="https://user.phil.hhu.de/~seyffarth/index.html">Esther Seyffarth</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub">[Paper]</a>).</li>
+    <li>How do Germans and US-Americans Conceive of Raⅽe? Using Corpus Analysis and Semantic Feature Production Tasks to Compare the Structure of Raⅽe Conceptions, with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>,  (Under review; <a href="https://github.com/kerbach2/dasRwort">Repository</a>).</li>
+    <li>A comparative corpus study of "raⅽe" and "Rasse", with <a href="https://www.philosophie.hhu.de/personal/philosophie-vi-philosophie-des-geistes-und-der-kognition/mitarbeiter/innen/benedict-kenyah-damptey">Benedict Kenyah-Damptey</a>, <a href="https://ledaberio.com/">Leda Berio</a>, <a href="https://philpeople.org/profiles/daniel-james-1">Daniel James</a>, <a href="https://user.phil.hhu.de/~seyffarth/index.html">Esther Seyffarth</a>, (<a href="https://www.sciencedirect.com/science/article/abs/pii/S2666799123000047?via%3Dihub">Paper</a>).</li>
   </ul>
 </details>
 
@@ -200,8 +193,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Publications
 (by publication date)
-* Erbach, Kurt. Forthcoming. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
-* Erbach, Kurt and Remus Gergel. (2025). Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
+* Erbach, Kurt. 2025. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
+* Erbach, Kurt and Remus Gergel. 2025. Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
 * Erbach, Kurt. 2025. Of *of* from 'from': Rethinking the partitive cycle. *Proceedings of the Linguistic Society of America* 10 (1): 5883. DOI: [10.3765/plsa.v10i1.5883](https://doi.org/10.3765/plsa.v10i1.5883)
 * Erbach, Kurt and Remus Gergel. 2025. Direct pseudo-partitives in US English. *Linguistics Vanguard*. DOI: [10.1515/lingvan-2023-0098](https://doi.org/10.1515/lingvan-2023-0098)
 * Erbach, Kurt, Magnus Poppe, and Cornelia Ebert. 2025. Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction. *Proceedings of ELM 3*. DOI: [10.3765/elm.3.5830](https://doi.org/10.3765/elm.3.5830)
