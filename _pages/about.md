@@ -17,6 +17,10 @@ I am also committed to humanist language research, and am continuing research th
 ## News
 
 
+**Sept 18, 2025** Paper, Reanalyzing the change of prepositions in partitives, accepted to *Catalan Journal of Linguistics*.
+
+***
+
 **Sept 2-4, 2025**. Poster "[Gestural pronouns: Binding predefined loci in gesture space to discourse referents](https://espp2025.ifispan.edu.pl/programme/posters/post-0000ff.gestural-pronouns-binding-predefined-loci-in-gestu)", at the 2025 European Society for Philosophy and Psychology (ESPP) Conference hosted by the Institute of Philosophy and Sociology, Polish Academy of Sciences, in Warsaw, Poland.
 
 ***
@@ -33,9 +37,6 @@ I am also committed to humanist language research, and am continuing research th
 
 ***
 
-**May 29, 2025**. Talk "Binding pronouns to discourse referents introduced with pointing gestures" at [Referential Expressions in Discourse (RED) 2025](https://sfb-redundancy-deficiency.uni-graz.at/de/konferenzen/mismatches-in-anaphoric-relations/), at Universität Graz.
-
-***
 
 
 
@@ -44,34 +45,8 @@ I am also committed to humanist language research, and am continuing research th
 <details>
 <summary><b>Partitivity in English (Habilitation)</b></summary>
 <br>
-
-Looking at the interaction of semantic and syntactic structures for expressing partitive and pseudo-partitive meaning in the history of English, this project motivates a new model of language change that captures these interactions to predict present day variation.
+This projects takes a critical look at changes in partitive structures across the history and varieties of English. In Old English counting and measuring of all kinds generally occurred with the counted noun in genitive case, and since there was no definite article until late Old English that means there was no syntagmatic difference between 'three dogs' and 'three of the dogs' meaning there was no clear distsinction between partitives and pseudo-partitives at the time unless demonstratives or possessives were used (Erbach, under review). In Old English, <i>of</i> was direectional like present-day <i>from</i>, and I aruge <i>of</i> was reanalyzed to be a partitive marker as the use case diminsehd (Erbach, Accepted). Moreover, in present day (US) English, the use of <i>of</i> is optional in measure pseudo-partitives like <i>add a cup water to the soup</i> but not in container constructions like <i>hand me the red cup of water</i>, as seen in corpus studies <a href="https://doi.org/10.1515/lingvan-2023-0098">(Erbach & Gergel 2025a)</a> and acceptability judgments <a href="https://doi.org/10.5817/LB2025-38532">(Erbach & Gergel, 2025b)</a>.
 <br>
-<br>
-<b>Output</b><br>
- <ul>
-  <li>"Direct pseudo-partitives in US English", with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel.</a> (<a href="https://doi.org/10.1515/lingvan-2023-0098">Paper</a>)</li>
-   <ul>
-     <li><b>In a sentence</b>: A corpus study shows regular use of direct pseudo-partitives with measures in US English and we aruge for distinct syntactic strucures for measure and container readings of pseudo-partitives.</li>
-   </ul>
-   <li>"Of <i>of</i> from 'from': Rethinking the partitive cycle".(<a href="https://doi.org/10.3765/plsa.v10i1.5883">Paper</a>)</li>
-   <ul>
-     <li><b>In a sentence</b>: I argue that pseudo-partitives are the result of reanalysis of "of" rather than grammaticalizatoin.</li>
-   </ul>
-   <li>"Testing dialects with simulations: The status of pseudo-partitives in US English", with <a href="https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html">Remus Gergel</a> (<a href="https://doi.org/10.5817/LB2025-38532">Paper</a>)</li>
-   <ul>
-     <li><b>In a sentence</b>: Experiments corroborate corpus results showing that speakers of US English prefer measure readings of direct pseudo-partitives than container readings.</li>
-   </ul>
-  <li>"Testing historical developments via language contact". (Talk at <a href="https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/">Varietätenkontakt: Phänomene - Methoden - Theorien</a>)</li>
-   <ul>
-     <li><b>In a sentence</b>: Across varieties of English, direct pseudo-partitives are a stable phenomonen suggesting that this is due to language internal change rather than language or dialectal contact.</li>
-   </ul>
-  <li>"Partitives in the Grammatical History Germanic Languages" (R&R)</li>
-   <ul>
-     <li><b>In a sentence</b>: Across Germanic languages there has been a general shift from genitive case being used for both partitive and pseudo-paritive structures to the disambiguation of these structures in various ways.</li>
-   </ul>
-
-</ul>   
 </details>
 
 <details>
@@ -193,10 +168,11 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Publications
 (by publication date)
+* Erbach, Kurt. Accepted. Reanalyzing the change of prepositions in partitives. *Catalan Journal of Linguistics*.
 * Erbach, Kurt. 2025. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
-* Erbach, Kurt and Remus Gergel. 2025. Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
+* Erbach, Kurt and Remus Gergel. 2025b. Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
 * Erbach, Kurt. 2025. Of *of* from 'from': Rethinking the partitive cycle. *Proceedings of the Linguistic Society of America* 10 (1): 5883. DOI: [10.3765/plsa.v10i1.5883](https://doi.org/10.3765/plsa.v10i1.5883)
-* Erbach, Kurt and Remus Gergel. 2025. Direct pseudo-partitives in US English. *Linguistics Vanguard*. DOI: [10.1515/lingvan-2023-0098](https://doi.org/10.1515/lingvan-2023-0098)
+* Erbach, Kurt and Remus Gergel. 2025a. Direct pseudo-partitives in US English. *Linguistics Vanguard*. DOI: [10.1515/lingvan-2023-0098](https://doi.org/10.1515/lingvan-2023-0098)
 * Erbach, Kurt, Magnus Poppe, and Cornelia Ebert. 2025. Experimental findings for a cross-modal account of dynamic binding in gesture-speech interaction. *Proceedings of ELM 3*. DOI: [10.3765/elm.3.5830](https://doi.org/10.3765/elm.3.5830)
 * Alexandropoulou, Stavroula, Kurt Erbach, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. Non-maximality effects in gestural plural predication. *The Proceedings of the 24rd Amsterdam Colloquium*. Link: [https://events.illc.uva.nl/AC/AC2024/Proceedings/](https://events.illc.uva.nl/AC/AC2024/Proceedings/)
 * Erbach, Kurt, Stavroula Alexandropoulou, Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. 2024. Putting summative predicates into context *The Proceedings of the 24rd Amsterdam Colloquium*. Link: [https://events.illc.uva.nl/AC/AC2024/Proceedings/](https://events.illc.uva.nl/AC/AC2024/Proceedings/)
