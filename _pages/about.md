@@ -17,11 +17,15 @@ I am also committed to humanist language research, and am continuing research th
 ## News
 
 
-**Sept 18, 2025** Paper, Reanalyzing the change of prepositions in partitives, accepted to *Catalan Journal of Linguistics*.
+**Dec 4, 2025** Talk, "[Gestures with social meaning](https://drive.google.com/file/d/1l22GVcWAqs81E67CJaU_Tz-F8sciK599/view)" at [*Formal Linguistic Approaches to MultiModality*](https://sites.google.com/view/flammtrinity/home), Trinity College Dublin.
 
 ***
 
-**Sept 2-4, 2025**. Poster "[Gestural pronouns: Binding predefined loci in gesture space to discourse referents](https://espp2025.ifispan.edu.pl/programme/posters/post-0000ff.gestural-pronouns-binding-predefined-loci-in-gestu)", at the 2025 European Society for Philosophy and Psychology (ESPP) Conference hosted by the Institute of Philosophy and Sociology, Polish Academy of Sciences, in Warsaw, Poland.
+**Nov 21, 2025** Poster, "[Englishes vary regarding when they have a *cup water*](https://sites.google.com/view/iraal2025/programme)" at [Irish Association of Applied Linguistics (IRAAL) 2025](https://sites.google.com/view/2025-iraal/baile), Trinity College Dublin.
+
+***
+
+**Sept 18, 2025** Paper, Reanalyzing the change of prepositions in partitives, accepted to *Catalan Journal of Linguistics*.
 
 ***
 
@@ -33,9 +37,7 @@ I am also committed to humanist language research, and am continuing research th
 
 ***
 
-**June 6, 2025**. Talk "Testing historical developments via language contact" at [Varieties in Contact: Phenomena – Methods – Theories](https://germanistik.kuwi.tu-dortmund.de/variationslinguistik/varietaetenkontakt/), at Universität Dortmund.
 
-***
 
 
 
