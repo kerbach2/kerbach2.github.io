@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) where I work on the semantics of gesture.
+I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html).  am currently a visiting researcher in [the School of Languages Cultures and Linguistics at University College Dublin](https://www.ucd.ie/slcl/).
 
 My linguistics research sits at the intersection of mathematical and social cognition, namely how we individuate (or fail to individuate) objects, people, social groups and categories. My long term goal is modeling the role of semantic complexity in diachronic changes in this domain. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction, plurality, gesture, and social meaning.
 
@@ -224,6 +224,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 * Erbach, K. 2017. Plurality. Heinrich-Heine-University, Dusseldorf.
 
 ## Previous appointments
+* Lab manager, under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) in the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/).
 * Post-doc, under [Yasu Sudo](https://www.ucl.ac.uk/~ucjtudo/) and [Clemens Mayr](https://www.uni-goettingen.de/de/clemens+steiner-mayr/569384.html) in the [IDEAlISM project](https://dynamicalternatives.wordpress.com/).
 * Post-doc, under [Jacopo Romoli](https://www.isi.hhu.de/bereiche-des-institutes/semantik/romoli) in [Semantics at Heinrich-Heine-University, Düsseldorf](https://www.isi.hhu.de/bereiche-des-institutes/semantik).
 * Post-doc, under [Carolin Biewer](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/team/biewer/) in [English Linguistics at Julius-Maximilians-Universität of Würzburg](https://www.neuphil.uni-wuerzburg.de/en/anglistik/abteilungen/englische-sprachwissenschaft/startseite/). 
