@@ -10,22 +10,22 @@ redirect_from:
 
 I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also the manager of the [University of Frankfurt Semantics Laboratory](https://osf.io/5974r/) under [Cornelia Ebert](https://user.uni-frankfurt.de/~coebert/) where I work on the semantics of gesture.
 
-My linguistics research sits at the intersection of mathematical and social issues, namely how we individuate (or fail to individuate) objects, people, social groups and categories. My long term goal is modeling semantic complexity and its role in diachronic changes in this domain. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction and plurality. 
+My linguistics research sits at the intersection of mathematical and social cognition, namely how we individuate (or fail to individuate) objects, people, social groups and categories. My long term goal is modeling the role of semantic complexity in diachronic changes in this domain. My short term goals include refining models partitivity that capture complexity across varities of English, both historical and in the present day. I also have ongoing projects looking at the count-mass distinction, plurality, gesture, and social meaning.
 
 I am also committed to humanist language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/stabsstelle-buergeruniversitaet/foerderung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated language use and policy in Germany and the US. 
 
 ## News
 
 
+**Jan 28, 2026** Paper, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)" accepted to [* Evolutionary Linguistic Theory*]https://www.benjamins.com/catalog/elt).
+
+***
+
 **Dec 4, 2025** Talk, "[Gestures with social meaning](https://drive.google.com/file/d/1l22GVcWAqs81E67CJaU_Tz-F8sciK599/view)" at [*Formal Linguistic Approaches to MultiModality*](https://sites.google.com/view/flammtrinity/home), Trinity College Dublin.
 
 ***
 
 **Nov 21, 2025** Poster, "[Englishes vary regarding when they have a *cup water*](https://sites.google.com/view/iraal2025/programme)" at [Irish Association of Applied Linguistics (IRAAL) 2025](https://sites.google.com/view/2025-iraal/baile), Trinity College Dublin.
-
-***
-
-**Sept 18, 2025** Paper, Reanalyzing the change of prepositions in partitives, accepted to *Catalan Journal of Linguistics*.
 
 ***
 
@@ -47,7 +47,7 @@ I am also committed to humanist language research, and am continuing research th
 <details>
 <summary><b>Partitivity in English (Habilitation)</b></summary>
 <br>
-This projects takes a critical look at changes in partitive structures across the history and varieties of English. In Old English counting and measuring of all kinds generally occurred with the counted noun in genitive case, and since there was no definite article until late Old English that means there was no syntagmatic difference between 'three dogs' and 'three of the dogs' meaning there was no clear distsinction between partitives and pseudo-partitives at the time unless demonstratives or possessives were used (Erbach, under review). In Old English, <i>of</i> was direectional like present-day <i>from</i>, and I aruge <i>of</i> was reanalyzed to be a partitive marker as the use case diminsehd (Erbach, Accepted). Moreover, in present day (US) English, the use of <i>of</i> is optional in measure pseudo-partitives like <i>add a cup water to the soup</i> but not in container constructions like <i>hand me the red cup of water</i>, as seen in corpus studies <a href="https://doi.org/10.1515/lingvan-2023-0098">(Erbach & Gergel 2025a)</a> and acceptability judgments <a href="https://doi.org/10.5817/LB2025-38532">(Erbach & Gergel, 2025b)</a>.
+This projects takes a critical look at changes in partitive structures across the history and varieties of English. In Old English counting and measuring of all kinds generally occurred with the counted noun in genitive case, and since there was no definite article until late Old English that means there was no syntagmatic difference between 'three dogs' and 'three of the dogs' meaning there was no clear distinction between partitives and pseudo-partitives at the time unless demonstratives or possessives were used (Erbach, under review). In Old English, <i>of</i> was direectional like present-day <i>from</i>, and I aruge <i>of</i> was reanalyzed to be a partitive marker as the use case diminsehd (Erbach, Accepted). Moreover, in present day (US) English, the use of <i>of</i> is optional in measure pseudo-partitives like <i>add a cup water to the soup</i> but not in container constructions like <i>hand me the red cup of water</i>, as seen in corpus studies <a href="https://doi.org/10.1515/lingvan-2023-0098">(Erbach & Gergel 2025a)</a> and acceptability judgments <a href="https://doi.org/10.5817/LB2025-38532">(Erbach & Gergel, 2025b)</a>. These patterns can also be seen across global verieties of English suggesting the structures that facilitate the use of direct pseudo-partitives have long been present in English (Erbach, in prep).
 <br>
 </details>
 
@@ -93,7 +93,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
   <li>Diachronic analyses</li>
     <ul>
       <li>The development of the collectivization construction in English (R&R)</li>
-      <li>Number classifying to number marking: Change in English countability (in <a href="https://doi.org/10.18148/sub/2025.v29.1223">Paper</a> 29)</li>
+      <li>Number classifying to number marking: Change in English countability (in <a href="https://doi.org/10.18148/sub/2025.v29.1223">Proceedings of Sinn und Bedeutung 29</a>)</li>
     </ul>
   <li>Countability in present Day Englishes</li>
     <ul>
@@ -170,7 +170,8 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Publications
 (by publication date)
-* Erbach, Kurt. Accepted. Reanalyzing the change of prepositions in partitives. *Catalan Journal of Linguistics*.
+* Erbach, Kurt and Remus Gergel. Forthcoming. [Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf). [* Evolutionary Linguistic Theory*]https://www.benjamins.com/catalog/elt).
+* Erbach, Kurt. Forthcoming. Reanalyzing the change of prepositions in partitives. *Catalan Journal of Linguistics*.
 * Erbach, Kurt. 2025. Number classifying to number marking: Change in English countability. In Longo, Federica & Daniele Panizza (Eds.), *Proceedings of Sinn Und Bedeutung*, 29, 455–464 [https://doi.org/10.18148/sub/2025.v29.1223](https://doi.org/10.18148/sub/2025.v29.1223)
 * Erbach, Kurt. 2025. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
 * Erbach, Kurt and Remus Gergel. 2025b. Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
