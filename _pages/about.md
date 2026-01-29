@@ -17,7 +17,7 @@ I am also committed to humanist language research, and am continuing research th
 ## News
 
 
-**Jan 28, 2026** Paper, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)" accepted to [* Evolutionary Linguistic Theory*]https://www.benjamins.com/catalog/elt).
+**Jan 28, 2026** Paper, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)" accepted to [*Evolutionary Linguistic Theory*](https://www.benjamins.com/catalog/elt).
 
 ***
 
