@@ -171,7 +171,6 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 ## Publications
 (by publication date)
 * Erbach, Kurt and Remus Gergel. Forthcoming. [Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf). [*Evolutionary Linguistic Theory*](https://www.benjamins.com/catalog/elt).
-* Erbach, Kurt. Forthcoming. Reanalyzing the change of prepositions in partitives. *Catalan Journal of Linguistics*.
 * Erbach, Kurt. 2025. Number classifying to number marking: Change in English countability. In Longo, Federica & Daniele Panizza (Eds.), *Proceedings of Sinn Und Bedeutung*, 29, 455–464 [https://doi.org/10.18148/sub/2025.v29.1223](https://doi.org/10.18148/sub/2025.v29.1223)
 * Erbach, Kurt. 2025. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
 * Erbach, Kurt and Remus Gergel. 2025b. Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
