@@ -28,10 +28,6 @@ I am also committed to humanist language research, and am continuing research th
 
 ***
 
-**Nov 21, 2025** Poster, "[Englishes vary regarding when they have a *cup water*](https://sites.google.com/view/iraal2025/programme)" at [Irish Association of Applied Linguistics (IRAAL) 2025](https://sites.google.com/view/2025-iraal/baile), Trinity College Dublin.
-
-***
-
 **Aug 25, 2025** Paper, [Shifting interpretations: Count and mass in linguistic categorization](http://journals.openedition.org/lexis/8840), published in Lexis.
 
 ***
