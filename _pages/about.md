@@ -16,8 +16,11 @@ I am also committed to humanist language research, and am continuing research th
 
 ## News
 
+**March 10, 2026** Paper with Cornelia Ebert, "Binding pronouns across  modalities" accepted to *Proceedings of Referential Expressions in Discourse (RED) 25*.
 
-**Jan 28, 2026** Paper, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)" accepted to [*Evolutionary Linguistic Theory*](https://www.benjamins.com/catalog/elt).
+***
+
+**Jan 28, 2026** Paper with Remus Gergel, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)" accepted to [*Evolutionary Linguistic Theory*](https://www.benjamins.com/catalog/elt).
 
 ***
 
@@ -170,6 +173,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Publications
 (by publication date)
+* Erbach, Kurt and Cornelia Ebert. Forthcoming. Binding pronouns across  modalities. *Proceedings of Referential Expressions in Discourse (RED) 25*.
 * Erbach, Kurt and Remus Gergel. Forthcoming. [Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf). [*Evolutionary Linguistic Theory*](https://www.benjamins.com/catalog/elt).
 * Erbach, Kurt. 2025. Number classifying to number marking: Change in English countability. In Longo, Federica & Daniele Panizza (Eds.), *Proceedings of Sinn Und Bedeutung*, 29, 455–464 [https://doi.org/10.18148/sub/2025.v29.1223](https://doi.org/10.18148/sub/2025.v29.1223)
 * Erbach, Kurt. 2025. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
