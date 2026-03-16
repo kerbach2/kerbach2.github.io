@@ -196,6 +196,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Teaching
 
+* Erbach, K. 2025. Advanced Topics in Comparative Morphosyntax. Saarland University.
 * Erbach, K. 2025. Introduction to Syntax. Saarland University.
 * Erbach, K. and R. Gergel 2025. Typology in Linguistics. Saarland University.
 * Erbach, K. 2024. The History and Development of the English Language. Saarland University.
