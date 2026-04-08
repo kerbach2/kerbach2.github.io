@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out under [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html), in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html). I am also currently a visiting researcher in [the School of Languages Cultures and Linguistics at University College Dublin](https://www.ucd.ie/slcl/).
+I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html), and which I began with the support of [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). I was also recently a visiting researcher in [the School of Languages Cultures and Linguistics at University College Dublin](https://www.ucd.ie/slcl/).
 
 My research interests revolve around the role of language acquisition in language change. So far, most of my work has motivated the hypothesis that differences in word categories that we see across languages are shaped by the frequency of category indicators in the acquisition process. I have ongoing projects looking at the count-mass distinction, plurality, gesture, and social meaning.
 
@@ -163,7 +163,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 ## Publications
 (by publication date)
 * Erbach, Kurt and Cornelia Ebert. Forthcoming. Binding pronouns across  modalities. *Proceedings of Referential Expressions in Discourse (RED) 25*.
-* Erbach, Kurt and Remus Gergel. 2026. [Transitioning developmental paths in modal flavors: an experimental pilot study](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf). *Evolutionary Linguistic Theory*. DOI: [10.1075/elt.00065.erb](https://doi.org/10.1075/elt.00065.erb)
+* Erbach, Kurt and Remus Gergel. 2026. Transitioning developmental paths in modal flavors: an experimental pilot study. *Evolutionary Linguistic Theory*. DOI: [10.1075/elt.00065.erb](https://doi.org/10.1075/elt.00065.erb)
 * Erbach, Kurt. 2025. Number classifying to number marking: Change in English countability. In Longo, Federica & Daniele Panizza (Eds.), *Proceedings of Sinn Und Bedeutung*, 29, 455–464 DOI: [10.18148/sub/2025.v29.1223](https://doi.org/10.18148/sub/2025.v29.1223)
 * Erbach, Kurt. 2025. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
 * Erbach, Kurt and Remus Gergel. 2025b. Testing dialects with simulations: the status of pseudo-partitives in US English. *Linguistica Brunensia* 73 (1): 93-111. DOI: [10.5817/LB2025-38532](https://doi.org/10.5817/LB2025-38532)
