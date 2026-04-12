@@ -12,7 +12,7 @@ I am a researcher and lecturer working currently focusing on changes in expressi
 
 My research interests revolve around the role of language acquisition in language change. So far, most of my work has motivated the hypothesis that differences in word categories that we see across languages are shaped by the frequency of category indicators in the acquisition process. I have ongoing projects looking at the count-mass distinction, plurality, gesture, and social meaning.
 
-I am also committed to humanist language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/stabsstelle-buergeruniversitaet/foerderung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated language use and policy in Germany and the US. 
+I am also committed to humanist language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/en/stabsstelle-buergeruniversitaet/partizipative-forschung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated language use and policy in Germany and the US. 
 
 ## News
 
