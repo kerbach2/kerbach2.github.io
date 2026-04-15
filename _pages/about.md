@@ -17,6 +17,10 @@ I am also committed to humanist language research, and am continuing research th
 ## News
 
 
+**Apr 14, 2026** abstract, ‘Because I’m Not a NAZI? Sociolinguistic Variation and Cross-Linguistic Race Talk’  accepted to the [33rd meeting of the Eruopean Society for Philosophy and Psychology](https://espp2026.sites.uu.nl/).
+
+***
+
 **March 27, 2026** Paper with Remus Gergel, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://doi.org/10.1075/elt.00065.erb)" published in *Evolutionary Linguistic Theory*. ([[Preprint](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)])
 
 ***
