@@ -8,14 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html), and which I began with the support of [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). I was also recently a visiting researcher in [the School of Languages Cultures and Linguistics at University College Dublin](https://www.ucd.ie/slcl/).
+I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html), and which I began with the support of [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). I am currently a researcher in the [Theatronomics](https://www.theatronomics.com/) project at the [University of Galway](https://www.universityofgalway.ie/colleges-and-schools/arts-social-sciences-and-celtic-studies/english-media-creative-arts/).
 
-My research interests revolve around the role of language acquisition in language change. So far, most of my work has motivated the hypothesis that differences in word categories that we see across languages are shaped by the frequency of category indicators in the acquisition process. I have ongoing projects looking at the count-mass distinction, plurality, gesture, and social meaning.
+My research interests revolve around the role of language acquisition in language change. So far, most of my work has motivated the hypothesis that differences in word categories that we see across languages are shaped by the frequency of category indicators in the acquisition process. I also have ongoing projects looking at the count-mass distinction, plurality, gesture, and social meaning.
 
 I am also committed to humanist language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/en/stabsstelle-buergeruniversitaet/partizipative-forschung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated language use and policy in Germany and the US. 
 
 ## News
 
+
+**May 11, 2026** Talk, "Pragmatic enrichment of gestures in second language use" aceepted to the [*2026 Irish Association of Applied Linguistics Annual Meeting*](https://sites.google.com/view/iraal2026/home) at the University of Limerick on 13-14 November 2026.
+
+***
 
 **Apr 14, 2026** abstract, ‘Because I’m Not a NAZI? Sociolinguistic Variation and Cross-Linguistic Race Talk’  accepted to the [33rd meeting of the Eruopean Society for Philosophy and Psychology](https://espp2026.sites.uu.nl/).
 
@@ -26,10 +30,6 @@ I am also committed to humanist language research, and am continuing research th
 ***
 
 **March 10, 2026** Paper with Cornelia Ebert, "Binding pronouns across  modalities" accepted to *Proceedings of Referential Expressions in Discourse (RED) 25*.
-
-***
-
-**Dec 4, 2025** Talk, "[Gestures with social meaning](https://drive.google.com/file/d/1l22GVcWAqs81E67CJaU_Tz-F8sciK599/view)" at [*Formal Linguistic Approaches to MultiModality*](https://sites.google.com/view/flammtrinity/home), Trinity College Dublin.
 
 ***
 
