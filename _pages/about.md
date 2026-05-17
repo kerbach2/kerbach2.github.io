@@ -39,26 +39,19 @@ I am also committed to humanist language research, and am continuing research th
 
 
 
-## Primary Projects
+## Primary Project
 <details>
-<summary><b>Partitivity in English (Habilitation)</b></summary>
+<summary><b>Partitive structures in the history of English (Habilitation)</b></summary>
 <br>
-This projects takes a critical look at changes in partitive structures across the history and varieties of English. In Old English counting and measuring of all kinds generally occurred with the counted noun in genitive case, and since there was no definite article until late Old English that means there was no syntagmatic difference between 'three dogs' and 'three of the dogs' meaning there was no clear distinction between partitives and pseudo-partitives at the time unless demonstratives or possessives were used (Erbach, under review). In Old English, <i>of</i> was direectional like present-day <i>from</i>, and I aruge <i>of</i> was reanalyzed to be a partitive marker as the use case diminsehd (Erbach, Accepted). Moreover, in present day (US) English, the use of <i>of</i> is optional in measure pseudo-partitives like <i>add a cup water to the soup</i> but not in container constructions like <i>hand me the red cup of water</i>, as seen in corpus studies <a href="https://doi.org/10.1515/lingvan-2023-0098">(Erbach & Gergel 2025a)</a> and acceptability judgments <a href="https://doi.org/10.5817/LB2025-38532">(Erbach & Gergel, 2025b)</a>. These patterns can also be seen across global verieties of English suggesting the structures that facilitate the use of direct pseudo-partitives have long been present in English (Erbach, in prep).
+This projects takes a critical look at changes in partitive structures across the history and varieties of English. 
+<br>
+  <li>In Old English counting and measuring of all kinds generally occurred with the counted noun in genitive case, and since there was no definite article until late Old English that means there was no syntagmatic difference between 'three dogs' and 'three of the dogs' meaning there was no clear distinction between partitives and pseudo-partitives at the time unless demonstratives or possessives were used (Erbach, under review).</li>
+  <li>In Old English, <i>of</i> was direectional like present-day <i>from</i>, and I aruge <i>of</i> was reanalyzed to be a partitive marker as the use of case diminsehd <a href="https://doi.org/10.3765/plsa.v10i1.5883">(Erbach 2025)</a>.</li> 
+  <li>In present day (US) English, the use of <i>of</i> is optional in measure pseudo-partitives like <i>add a cup water to the soup</i> but not in container constructions like <i>hand me the red cup of water</i>, as seen in corpus studies <a href="https://doi.org/10.1515/lingvan-2023-0098">(Erbach & Gergel 2025a)</a> and acceptability judgments <a href="https://doi.org/10.5817/LB2025-38532">(Erbach & Gergel, 2025b)</a>.</li> 
+  <li>These patterns can also be seen across global verieties of English suggesting the structures that facilitate the use of direct pseudo-partitives have long been present in English (Erbach, in prep).</li>
+  <li>I have also agrued that certain classifiers give rise to partitive interpretations even if they occur in pseudo-partitive structures <a href="https://cloudfile.wa.amu.edu.pl/axess/PLM_2025/Abstracts/PLM2025_Abstract_Erbach.pdf">(Erbach, 2025)</li>
 <br>
 </details>
-
-<details>
-<summary><b>Plural individuals in gesture semantics (SLE Early career researcher grant)</b></summary>
-<br>
-The target of this research project is number within gesture semantics, namely whether the discourse referent introduced by a singular palm-up gesture—i.e. showing the palm of one hand as if presenting something—is interpreted as a singular or plural when occurring as a co-speech gesture with the utterance of a plural individual like "Sam and Diane"
-<br>
-<br>
-<b>Output</b><br>
- <ul>
-   <li>Singular gestures and plural individuals. (Talk at the Semantics Colloquium of Goethe-University, Frankfurt</li>
- </ul>   
-</details>
-
 
 
 
@@ -66,11 +59,10 @@ The target of this research project is number within gesture semantics, namely w
 <details>
 <summary><b>The semantics of gesture--speech interaction</b></summary>
 <br>
-Looking at multi-modal anaphora, such as verbal pronouns binding to discourse referents introduced by co-speech gestures, this project motivates a novel analyses for the semantics of dynamic binding  in gesture-speech interaction.
-<br>
-<br>
 <b>Output</b><br>
  <ul>
+   <li>Gestures with social meaning (<a href="https://drive.google.com/file/d/1l22GVcWAqs81E67CJaU_Tz-F8sciK599/view">Abstract</a>)</li>
+   <li>Singular gestures and plural individuals (<a href="https://www.linguistik-in-frankfurt.de/talks-by-kurt-erbach-frankfurt-saarbruecken-and-carolin-reinert-frankfurt-and-carla-spellerberg-amherst-in-the-semantics-colloquium/">Abstract</a>)</li>
    <li>Experimental findings of dynamic binding  in gesture-speech interaction, with <a href="https://user.uni-frankfurt.de/~coebert/">Cornelia Ebert</a> and Magnus Poppe. (<a href="https://journals.linguisticsociety.org/proceedings/index.php/ELM/article/view/5830/5607">Paper</a>; <a href="https://osf.io/5974r/">OSF repository</a>)</li>
    <li>Non-maximality effects in gestural plural predication, with Stavroula Alexandropoulou (first author), Richard Breheny, Clemens Mayr, Jacopo Romoli, Yasutada Sudo. (<a href="https://drive.google.com/file/d/17VvnuAaSq6w8hgvgWnc4odjWEFY4hunO/view">Paper</a>)
    </li>
@@ -88,7 +80,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 <ul>
   <li>Diachronic analyses</li>
     <ul>
-      <li>The development of the collectivization construction in English (R&R)</li>
+      <li>The origins of English object mass nouns (In prep)</li>
       <li>Number classifying to number marking: Change in English countability (in <a href="https://doi.org/10.18148/sub/2025.v29.1223">Proceedings of Sinn und Bedeutung 29</a>)</li>
     </ul>
   <li>Countability in present Day Englishes</li>
@@ -116,8 +108,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
       </ul>
   <li>Greek</li>
      <ul>
-        <li>The acquisition of object mass noun</li>
-       <li>Object mass nouns in Greek, with Vasileia Skrimpa ([Abstract](https://www.linguisticsociety.org/abstract/object-mass-nouns-greek)).</li>
+       <li>Object mass nouns in Greek, with Vasileia Skrimpa (<a href="https://www.lsadc.org/files/Handbook%20PDF.pdf">Paper</a>Abstract).</li>
         <li>A measure based analysis of plural nouns in Greek (<a href="https://semanticsarchive.net/Archive/Tg3ZGI2M/Erbach.pdf">Paper</a>).</li>
        </ul>
   <li>Hungarian</li>
@@ -166,7 +157,7 @@ Looking at multi-modal anaphora, such as verbal pronouns binding to discourse re
 
 ## Publications
 (by publication date)
-* Erbach, Kurt and Cornelia Ebert. Forthcoming. Binding pronouns across  modalities. *Proceedings of Referential Expressions in Discourse (RED) 25*.
+* Erbach, Kurt and Cornelia Ebert. Forthcoming. Binding pronouns across modalities. *Proceedings of Referential Expressions in Discourse (RED) 25*.
 * Erbach, Kurt and Remus Gergel. 2026. Transitioning developmental paths in modal flavors: an experimental pilot study. *Evolutionary Linguistic Theory*. DOI: [10.1075/elt.00065.erb](https://doi.org/10.1075/elt.00065.erb)
 * Erbach, Kurt. 2025. Number classifying to number marking: Change in English countability. In Longo, Federica & Daniele Panizza (Eds.), *Proceedings of Sinn Und Bedeutung*, 29, 455–464 DOI: [10.18148/sub/2025.v29.1223](https://doi.org/10.18148/sub/2025.v29.1223)
 * Erbach, Kurt. 2025. Shifting interpretations: Count and mass in linguistic categorization. *Lexis*. DOI: [10.4000/14i18](https://doi.org/10.4000/14i18)
