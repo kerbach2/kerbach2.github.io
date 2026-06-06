@@ -45,11 +45,13 @@ I am also committed to humanist language research, and am continuing research th
 <br>
 This projects takes a critical look at changes in partitive structures across the history and varieties of English. 
 <br>
+<ul>
   <li>In Old English counting and measuring of all kinds generally occurred with the counted noun in genitive case, and since there was no definite article until late Old English that means there was no syntagmatic difference between 'three dogs' and 'three of the dogs' meaning there was no clear distinction between partitives and pseudo-partitives at the time unless demonstratives or possessives were used (Erbach, under review).</li>
   <li>In Old English, <i>of</i> was direectional like present-day <i>from</i>, and I aruge <i>of</i> was reanalyzed to be a partitive marker as the use of case diminsehd <a href="https://doi.org/10.3765/plsa.v10i1.5883">(Erbach 2025)</a>.</li> 
   <li>In present day (US) English, the use of <i>of</i> is optional in measure pseudo-partitives like <i>add a cup water to the soup</i> but not in container constructions like <i>hand me the red cup of water</i>, as seen in corpus studies <a href="https://doi.org/10.1515/lingvan-2023-0098">(Erbach & Gergel 2025a)</a> and acceptability judgments <a href="https://doi.org/10.5817/LB2025-38532">(Erbach & Gergel, 2025b)</a>.</li> 
   <li>These patterns can also be seen across global verieties of English suggesting the structures that facilitate the use of direct pseudo-partitives have long been present in English (Erbach, in prep).</li>
   <li>I have also agrued that certain classifiers give rise to partitive interpretations even if they occur in pseudo-partitive structures <a href="https://cloudfile.wa.amu.edu.pl/axess/PLM_2025/Abstracts/PLM2025_Abstract_Erbach.pdf">(Erbach, 2025)</li>
+</ul>
 <br>
 </details>
 
