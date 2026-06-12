@@ -17,7 +17,11 @@ I am also committed to humanist language research, and am continuing research th
 ## News
 
 
-**May 11, 2026** Talk, "Pragmatic enrichment of gestures in second language use" aceepted to the [*2026 Irish Association of Applied Linguistics Annual Meeting*](https://sites.google.com/view/iraal2026/home) at the University of Limerick on 13-14 November 2026.
+**June 10, 2026** Talk, "Transitioning developmental paths in modal flavors: an experimental pilot study" given at  [*Experiments in Linguistic Meaning 4*](https://www.elm-conference.net/elm-4-2026/elm-4-program/) at the University of Pennsylvania (online).
+
+***
+
+**May 11, 2026** Talk, "Pragmatic enrichment of gestures in second language use" accepted to the [*2026 Irish Association of Applied Linguistics Annual Meeting*](https://sites.google.com/view/iraal2026/home) at the University of Limerick on 13-14 November 2026.
 
 ***
 
@@ -26,10 +30,6 @@ I am also committed to humanist language research, and am continuing research th
 ***
 
 **March 27, 2026** Paper with Remus Gergel, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://doi.org/10.1075/elt.00065.erb)" published in *Evolutionary Linguistic Theory*. ([[Preprint](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)])
-
-***
-
-**March 10, 2026** Paper with Cornelia Ebert, "Binding pronouns across  modalities" accepted to *Proceedings of Referential Expressions in Discourse (RED) 25*.
 
 ***
 
@@ -50,7 +50,7 @@ This projects takes a critical look at changes in partitive structures across th
   <li>In Old English, <i>of</i> was direectional like present-day <i>from</i>, and I aruge <i>of</i> was reanalyzed to be a partitive marker as the use of case diminsehd <a href="https://doi.org/10.3765/plsa.v10i1.5883">(Erbach 2025)</a>.</li> 
   <li>In present day (US) English, the use of <i>of</i> is optional in measure pseudo-partitives like <i>add a cup water to the soup</i> but not in container constructions like <i>hand me the red cup of water</i>, as seen in corpus studies <a href="https://doi.org/10.1515/lingvan-2023-0098">(Erbach & Gergel 2025a)</a> and acceptability judgments <a href="https://doi.org/10.5817/LB2025-38532">(Erbach & Gergel, 2025b)</a>.</li> 
   <li>These patterns can also be seen across global verieties of English suggesting the structures that facilitate the use of direct pseudo-partitives have long been present in English (Erbach, in prep).</li>
-  <li>I have also agrued that certain classifiers give rise to partitive interpretations even if they occur in pseudo-partitive structures <a href="https://cloudfile.wa.amu.edu.pl/axess/PLM_2025/Abstracts/PLM2025_Abstract_Erbach.pdf">(Erbach, 2025)</li>
+  <li>I have also agrued that certain classifiers give rise to partitive interpretations even if they occur in pseudo-partitive structures <a href="https://cloudfile.wa.amu.edu.pl/axess/PLM_2025/Abstracts/PLM2025_Abstract_Erbach.pdf">(Erbach, 2025)</a>.</li>
 </ul>
 <br>
 </details>
@@ -58,6 +58,7 @@ This projects takes a critical look at changes in partitive structures across th
 
 
 ## Secondary and Previous Projects
+
 <details>
 <summary><b>The semantics of gesture--speech interaction</b></summary>
 <br>
