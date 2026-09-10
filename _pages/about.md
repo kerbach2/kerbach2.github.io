@@ -17,6 +17,10 @@ I am also committed to humanist language research, and am continuing research th
 ## News
 
 
+**Sept 15, 2026** Invited talk, "On the instability of form and structure; Mapping part-hood and measurement across the history of English" at [*Linguistics Research Seminar*](https://www.elm-conference.net/elm-4-2026/elm-4-program/) at Trinity College Dublin.
+
+***
+
 **June 10, 2026** Talk, "Transitioning developmental paths in modal flavors: an experimental pilot study" given at  [*Experiments in Linguistic Meaning 4*](https://www.elm-conference.net/elm-4-2026/elm-4-program/) at the University of Pennsylvania (online).
 
 ***
@@ -30,10 +34,6 @@ I am also committed to humanist language research, and am continuing research th
 ***
 
 **March 27, 2026** Paper with Remus Gergel, "[Transitioning developmental paths in modal flavors: an experimental pilot study](https://doi.org/10.1075/elt.00065.erb)" published in *Evolutionary Linguistic Theory*. ([[Preprint](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/gergel/publications_gergel/Modal_development_experiments.pdf)])
-
-***
-
-**Aug 25, 2025** Paper, [Shifting interpretations: Count and mass in linguistic categorization](http://journals.openedition.org/lexis/8840), published in Lexis.
 
 ***
 
