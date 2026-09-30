@@ -83,12 +83,12 @@ author:
   name             : "Kurt Erbach"
   avatar           : "profile.png"
   bio              : "PhD Linguistics"
-  location         : "Dusseldorf, Germany"
+  location         : "Dublin, Ireland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?user=lnUA6aIAAAAJ&hl=en"
   email            : "erbach@uni-duesseldorf.de"
-  researchgate     : "https://www.researchgate.net/profile/Kurt_Erbach"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kurt-erbach-6109a612/"
+  linkedin         : 
   orcid            : "0000-0002-1656-0593"
   osf              : "rfbsh"
   pinterest        :
