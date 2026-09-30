@@ -10,14 +10,14 @@ redirect_from:
 
 I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html), and which I began with the support of [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). I am currently a researcher in the [Theatronomics](https://www.theatronomics.com/) project at the [University of Galway](https://www.universityofgalway.ie/colleges-and-schools/arts-social-sciences-and-celtic-studies/english-media-creative-arts/).
 
-My research interests revolve around the role of cognition and language acquisition in language change. So far, most of my work has motivated the hypothesis that differences in word categories that we see across languages are shaped by the frequency of category indicators in the acquisition process. I have ongoing projects that focus on what cross-linguistic realizations of the count-mass distinction, plurality, gesture, and social meaning can tell us about cognition.
+My research interests revolve around language as a part of cognition and the nature of the relationship between the two. For example, my work on countability has motivated the hypothesis that differences in word categories that we see across languages are shaped by the frequency of category indicators in the acquisition process. I have ongoing projects that focus on realizations of the count-mass distinction, plurality, gesture, social categories, and social meaning.
 
-I am also committed to humanist language research, and am continuing research that began in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/en/stabsstelle-buergeruniversitaet/partizipative-forschung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte), which investigated language use and policy in Germany and the US. 
+I am committed to open science as well as equity, diversity, and inclusivity in research and education. This is best represented by my role in the project ["Rasse" - Zur Aushandlung eine belasteten deutschen Ausdrucks](https://www.buergeruni.hhu.de/en/stabsstelle-buergeruniversitaet/partizipative-forschung/buergeruniversitaet-in-der-forschung/gefoerderte-projekte) ('“Race” - On the negotiation of a fraught German term'), which has investigated race talk and policy in Germany and the USA. 
 
 ## News
 
 
-**Sept 15, 2026** Invited talk, "On the instability of form and structure; Mapping part-hood and measurement across the history of English" at [*Linguistics Research Seminar*](https://www.elm-conference.net/elm-4-2026/elm-4-program/) at Trinity College Dublin.
+**Sept 15, 2026** Invited talk, "Whence come PART : diachronic approach to the structure of English partitives" at [*Linguistics Research Seminar*](https://www.elm-conference.net/elm-4-2026/elm-4-program/) at Trinity College Dublin.
 
 ***
 
