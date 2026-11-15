@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html), and which I began with the support of [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). I am currently a researcher in the [Theatronomics](https://www.theatronomics.com/) project at the [University of Galway](https://www.universityofgalway.ie/colleges-and-schools/arts-social-sciences-and-celtic-studies/english-media-creative-arts/).
+I am a researcher and lecturer working currently focusing on changes in expressions of part-hood and measurement in historical and present day varieties of English. This focus is my habilitation project, which I am carrying out in [English Linguistics at Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html), and which I began with the support of [Remus Gergel](https://www.uni-saarland.de/lehrstuhl/gergel/facultystaff/englishlinguisticfaculty/prof-dr-remus-gergel.html). I am currently Stellvertretende Professur ('Acting Professor') of English Linguistics in the Department of English at [Saarland University](https://www.uni-saarland.de/lehrstuhl/gergel.html).
 
 My research interests revolve around language as a part of cognition and the nature of the relationship between the two. For example, my work on countability has motivated the hypothesis that differences in word categories that we see across languages are shaped by the frequency of category indicators in the acquisition process. I have ongoing projects that focus on realizations of the count-mass distinction, plurality, gesture, social categories, and social meaning.
 
@@ -17,19 +17,19 @@ I am committed to open science as well as equity, diversity, and inclusivity in 
 ## News
 
 
+**Nov 13, 2026** Talk, "Pragmatic enrichment of gestures in second language use" at the [*2026 Irish Association of Applied Linguistics Annual Meeting*](https://sites.google.com/view/iraal2026/home) at the University of Limerick.
+
+***
+
 **Sept 15, 2026** Invited talk, "Whence come PART : diachronic approach to the structure of English partitives" at [*Linguistics Research Seminar*](https://www.elm-conference.net/elm-4-2026/elm-4-program/) at Trinity College Dublin.
 
 ***
 
+**July 1, 2026** Talk, ‘Because I’m Not a NAZI? Sociolinguistic Variation and Cross-Linguistic Race Talk’ at the [33rd meeting of the Eruopean Society for Philosophy and Psychology](https://espp2026.sites.uu.nl/).
+
+***
+
 **June 10, 2026** Talk, "Transitioning developmental paths in modal flavors: an experimental pilot study" given at  [*Experiments in Linguistic Meaning 4*](https://www.elm-conference.net/elm-4-2026/elm-4-program/) at the University of Pennsylvania (online).
-
-***
-
-**May 11, 2026** Talk, "Pragmatic enrichment of gestures in second language use" accepted to the [*2026 Irish Association of Applied Linguistics Annual Meeting*](https://sites.google.com/view/iraal2026/home) at the University of Limerick on 13-14 November 2026.
-
-***
-
-**Apr 14, 2026** abstract, ‘Because I’m Not a NAZI? Sociolinguistic Variation and Cross-Linguistic Race Talk’  accepted to the [33rd meeting of the Eruopean Society for Philosophy and Psychology](https://espp2026.sites.uu.nl/).
 
 ***
 
